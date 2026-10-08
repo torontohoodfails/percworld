@@ -14,6 +14,10 @@ file = "config/mtsconfig.json"
 hash = "efbc397e7f89382509d7e8225f01deb5a640eb088c3289fce84a95a5876f36d1"
 
 [[files]]
+file = "config/sparsestructures.json5"
+hash = "ee47df52629175fc072e03cec19adfc94b22d5fff1cd513d384a691e4c8e9e5b"
+
+[[files]]
 file = "config/tweakeroo.json"
 hash = "cb985e74273b8bd8c5df2b57301e4c142d6fd4ac87b9ed21e413a58ccb11b7c2"
 preserve = true
@@ -309,6 +313,11 @@ hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
+file = "mods/sparsestructures.pw.toml"
+hash = "993b4e4970e1a5ef2fe7c6712212f57a84dcf8b31d4b6863540b6395c4f9ce09"
+metafile = true
+
+[[files]]
 file = "mods/spelunkery.pw.toml"
 hash = "cd2c6fa89eecaaa1aadf369b043ceb45e99778cacd590e3fc01b0dcae2e6557d"
 metafile = true
@@ -345,11 +354,11 @@ metafile = true
 
 [[files]]
 file = "mods/vortex-1.0.0.jar"
-hash = "d8031b2e3c346379e809924b7e05e2986354d51915e2a729281b56175cfd8047"
+hash = "9d54e01f81388cb065a3d512b13ff5fd79144a31e045ed0dee75e72ebcdff4a2"
 
 [[files]]
 file = "mods/vortexcore-1.0.0.jar"
-hash = "1e84fa51cc735a8a740d92e11729acb2d8a4e71ff3d06852c8df89f02b43fc20"
+hash = "ce8cc536bac71941c62f2317c2848b3277f63695c216bb16b79b9b4fa0cc3d04"
 
 [[files]]
 file = "mods/vortexguard-1.0.0.jar"

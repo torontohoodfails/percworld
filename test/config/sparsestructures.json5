@@ -1,0 +1,11 @@
+// percworld: structures spread out (designer: villages and ocean monuments were far too common).
+// Factor 2 = each structure type about a quarter as dense; 3 = about a ninth.
+{
+  "spreadFactor": 2,
+  "idBasedSalt": true,
+  "customSpreadFactors": [
+    { "structure": "minecraft:villages", "factor": 3 },
+    { "structure": "minecraft:ocean_monuments", "factor": 3 },
+    { "structure": "minecraft:woodland_mansions", "factor": 2 }
+  ]
+}
