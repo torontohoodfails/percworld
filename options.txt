@@ -1,0 +1,2 @@
+guiScale:4
+soundCategory_music:0.0

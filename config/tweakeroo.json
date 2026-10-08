@@ -1,0 +1,169 @@
+{
+  "GenericHotkeys": {
+    "accurateBlockPlacementInto": {
+      "keys": ""
+    },
+    "accurateBlockPlacementReverse": {
+      "keys": ""
+    },
+    "areaSelectionOffset": {
+      "keys": ""
+    },
+    "areaSelectionAddToList": {
+      "keys": ""
+    },
+    "areaSelectionRemoveFromList": {
+      "keys": ""
+    },
+    "breakingRestrictionModeColumn": {
+      "keys": ""
+    },
+    "breakingRestrictionModeDiagonal": {
+      "keys": ""
+    },
+    "breakingRestrictionModeFace": {
+      "keys": ""
+    },
+    "breakingRestrictionModeLayer": {
+      "keys": ""
+    },
+    "breakingRestrictionModeLine": {
+      "keys": ""
+    },
+    "breakingRestrictionModePlane": {
+      "keys": ""
+    },
+    "copySignText": {
+      "keys": ""
+    },
+    "elytraCamera": {
+      "keys": ""
+    },
+    "flexibleBlockPlacementAdjacent": {
+      "keys": ""
+    },
+    "flexibleBlockPlacementOffset": {
+      "keys": ""
+    },
+    "flexibleBlockPlacementRotation": {
+      "keys": ""
+    },
+    "flyPreset1": {
+      "keys": ""
+    },
+    "flyPreset2": {
+      "keys": ""
+    },
+    "flyPreset3": {
+      "keys": ""
+    },
+    "flyPreset4": {
+      "keys": ""
+    },
+    "flyIncrement1": {
+      "keys": ""
+    },
+    "flyIncrement2": {
+      "keys": ""
+    },
+    "freeCameraPlayerInputs": {
+      "keys": ""
+    },
+    "freeCameraPlayerMovement": {
+      "keys": ""
+    },
+    "freeCameraPresetAdd": {
+      "keys": ""
+    },
+    "freeCameraPresetCycle": {
+      "keys": ""
+    },
+    "freeCameraPresetDelete": {
+      "keys": ""
+    },
+    "freeCameraPresetDeleteAll": {
+      "keys": ""
+    },
+    "hotbarScroll": {
+      "keys": ""
+    },
+    "hotbarSwapBase": {
+      "keys": ""
+    },
+    "hotbarSwap1": {
+      "keys": ""
+    },
+    "hotbarSwap2": {
+      "keys": ""
+    },
+    "hotbarSwap3": {
+      "keys": ""
+    },
+    "inventoryPreview": {
+      "keys": ""
+    },
+    "inventoryPreviewToggleScreen": {
+      "keys": ""
+    },
+    "openConfigGui": {
+      "keys": ""
+    },
+    "openCameraPresetEditorGui": {
+      "keys": ""
+    },
+    "placementYMirror": {
+      "keys": ""
+    },
+    "playerInventoryPeek": {
+      "keys": ""
+    },
+    "placementRestrictionModeColumn": {
+      "keys": ""
+    },
+    "placementRestrictionModeFace": {
+      "keys": ""
+    },
+    "placementRestrictionModeLayer": {
+      "keys": ""
+    },
+    "placementRestrictionModeLine": {
+      "keys": ""
+    },
+    "placementRestrictionModePlane": {
+      "keys": ""
+    },
+    "sitDownNearbyPets": {
+      "keys": ""
+    },
+    "skipAllRendering": {
+      "keys": ""
+    },
+    "skipWorldRendering": {
+      "keys": ""
+    },
+    "standUpNearbyPets": {
+      "keys": ""
+    },
+    "swapElytraChestplate": {
+      "keys": ""
+    },
+    "toggleAccuratePlacementProtocol": {
+      "keys": ""
+    },
+    "toggleGrabCursor": {
+      "keys": ""
+    },
+    "toolPick": {
+      "keys": ""
+    },
+    "writeMapsAsImages": {
+      "keys": ""
+    },
+    "zoomActivate": {
+      "keys": ""
+    }
+  },
+  "TweakToggles": {
+    "tweakZoom": true
+  }
+}

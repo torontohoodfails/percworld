@@ -1,0 +1,13 @@
+name = "percworld modpack"
+author = "percworld"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1d4a6db628f00844bd36f4288401ba9c7490cecc09a7ddf9477beb1c8c0d17d5"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.252"
