@@ -2,10 +2,10 @@
   "biomes": {
     "temperature_multiplier": 1.0,
     "temperature_offset": 0.0,
-    "temperature_scale": 0.25,
+    "temperature_scale": 0.0625,
     "vegetation_multiplier": 1.0,
     "vegetation_offset": 0.0,
-    "vegetation_scale": 0.25
+    "vegetation_scale": 0.0625
   },
   "caves": {
     // Whether old caves/ravines should generate. Game restart required!
@@ -31,7 +31,7 @@
     // Horizontally scales continents. Lower values = larger continents and oceans between them.
     "continents_scale": 0.17,
     // Horizontally scales erosion, primarily impacting mountains. Lower values = thicker mountain ranges and terrain between them.
-    "erosion_scale": 0.25,
+    "erosion_scale": 0.15,
     // The threshold where plateau terrain becomes flatter terrain. Positive numbers favor flat terrain and negative numbers favor plateau terrain.
     "flat_terrain_skew": 0.1,
     // Some jungles generate massive pillars that can extend upwards of a hundred blocks tall.

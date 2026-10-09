@@ -23,7 +23,7 @@ hash = "b949fc812f89b99e38c95081ac638ce99523070ff2d1fcafedbc5f2a0c3db706"
 
 [[files]]
 file = "config/tectonic.json"
-hash = "253e9bd67342989f78fa3a05710e54d6095f123948ba577de1312ef89a3d5d08"
+hash = "305295eaa9b9181a172fc7ff13b7d3cc1a68436253ca16f958568c682949ad4b"
 
 [[files]]
 file = "config/tweakeroo.json"
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/en_darkutilities-0.1.0.jar"
-hash = "33209d05f7bbadcbd9966b0d24786ec9eb403a1de1cb599559b9711a8882d734"
+hash = "3fa28f888dfc147222233966755a7443a36b8ed72b7adcbb34453b97a1fcb24f"
 
 [[files]]
 file = "mods/en_derio-0.1.0.jar"
@@ -118,15 +118,15 @@ hash = "d77d877671031bc084193401b49d6600d182e67660bc86d2f5e305453fe51b7c"
 
 [[files]]
 file = "mods/en_extrautilities2-0.1.0.jar"
-hash = "19f1c68f7567e3440eb54523adfd878c3f427535075e831968debfc40cc5470e"
+hash = "470dcfb019d5469e4ffef28b9ffb96fafaa19a3bd7faf844f60b6b7ddc6b1e2b"
 
 [[files]]
 file = "mods/en_industrialcraft2-0.1.0.jar"
-hash = "f8a16a16d22f2f35e24cc75e7f6ab3f345277ca3b2a6629e8aca8cfb1b1cc051"
+hash = "a06344044a7d4a3522a8e84b027a7514b660c13b74dc299661410371da32209e"
 
 [[files]]
 file = "mods/en_tconstruct-0.1.0.jar"
-hash = "4fb5b20c696e8717af4dfec54eec21ab90607c0fb9e4de54bd3cacfd1c3e216a"
+hash = "b4360adad242157601e5c881815bfcb5dcc1d7dc0289b991c783d0a7cb56eb82"
 
 [[files]]
 file = "mods/explorify.pw.toml"
