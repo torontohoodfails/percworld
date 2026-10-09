@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Mekanism/world.toml"
+hash = "911128ccac323c00ae1768bb133f79346412df6caa634b337299adb3bc583de2"
+
+[[files]]
 file = "config/appleskin-client.toml"
 hash = "6a3624ed584e6d2c4323957c3ca3d17bf2c01c7bbb73b9ee487378ff69d88aba"
 
@@ -15,7 +19,7 @@ hash = "efbc397e7f89382509d7e8225f01deb5a640eb088c3289fce84a95a5876f36d1"
 
 [[files]]
 file = "config/sparsestructures.json5"
-hash = "ee47df52629175fc072e03cec19adfc94b22d5fff1cd513d384a691e4c8e9e5b"
+hash = "b949fc812f89b99e38c95081ac638ce99523070ff2d1fcafedbc5f2a0c3db706"
 
 [[files]]
 file = "config/tectonic.json"
@@ -167,6 +171,11 @@ metafile = true
 [[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "89395dd9fcb8ae67889d991207cb95ed7158571c387dde88012853c5fa9ca3fb"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "4de3e4a1a49e332c1ad313283e0403c4273b628d634c17a9ff0c9da3d6b67f9a"
 metafile = true
 
 [[files]]
@@ -361,11 +370,11 @@ metafile = true
 
 [[files]]
 file = "mods/vortex-1.0.0.jar"
-hash = "0819f04736850ed7ef9007534645db69e666c6930c7b9a14f3d3af81dbed8c4d"
+hash = "8f6b4bef596d79209a91986c7df1763334037f68c7c2a7082d1506b9d5810a03"
 
 [[files]]
 file = "mods/vortexcore-1.0.0.jar"
-hash = "ce8cc536bac71941c62f2317c2848b3277f63695c216bb16b79b9b4fa0cc3d04"
+hash = "01a9aaac1e6ed2a9f5dfcd5f9bb9692b914baba56d15c084875158e5c3505941"
 
 [[files]]
 file = "mods/vortexguard-1.0.0.jar"
