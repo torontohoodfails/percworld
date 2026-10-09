@@ -1,10 +1,23 @@
-// percworld: structures spread out (designer: villages and ocean monuments were far too common).
-// Factor 2 = each structure type about a quarter as dense; 3 = about a ninth.
+// percworld: structures spread out. Villages come in many modded forms (each its own structure set), so every one of them is listed here.
+// Factor 2 = each structure type about a quarter as dense; 3 = about a ninth; 6 = about 1/36.
 {
   "spreadFactor": 2,
   "idBasedSalt": true,
   "customSpreadFactors": [
-    { "structure": "minecraft:villages", "factor": 3 },
+    // villages, every kind
+    { "structure": "minecraft:villages", "factor": 7 },
+    { "structure": "nova_structures:villages_birch", "factor": 7 },
+    { "structure": "nova_structures:villages_jungle", "factor": 7 },
+    { "structure": "nova_structures:villages_swamp", "factor": 7 },
+    { "structure": "nova_structures:ruin_town", "factor": 5 },
+    { "structure": "repurposed_structures:villages_overworld", "factor": 7 },
+    { "structure": "repurposed_structures:villages_mushroom", "factor": 5 },
+    { "structure": "repurposed_structures:villages_nether", "factor": 5 },
+    { "structure": "terralith:rare_village", "factor": 4 },
+    { "structure": "towns_and_towers:towns", "factor": 6 },
+    { "structure": "towns_and_towers:other", "factor": 5 },
+    { "structure": "explorify:dark_forest_settlements", "factor": 4 },
+    // the rest
     { "structure": "minecraft:ocean_monuments", "factor": 3 },
     { "structure": "minecraft:woodland_mansions", "factor": 2 }
   ]
