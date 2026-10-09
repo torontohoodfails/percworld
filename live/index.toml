@@ -18,6 +18,10 @@ file = "config/sparsestructures.json5"
 hash = "ee47df52629175fc072e03cec19adfc94b22d5fff1cd513d384a691e4c8e9e5b"
 
 [[files]]
+file = "config/tectonic.json"
+hash = "253e9bd67342989f78fa3a05710e54d6095f123948ba577de1312ef89a3d5d08"
+
+[[files]]
 file = "config/tweakeroo.json"
 hash = "cb985e74273b8bd8c5df2b57301e4c142d6fd4ac87b9ed21e413a58ccb11b7c2"
 preserve = true
@@ -357,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/vortex-1.0.0.jar"
-hash = "9d54e01f81388cb065a3d512b13ff5fd79144a31e045ed0dee75e72ebcdff4a2"
+hash = "0819f04736850ed7ef9007534645db69e666c6930c7b9a14f3d3af81dbed8c4d"
 
 [[files]]
 file = "mods/vortexcore-1.0.0.jar"
