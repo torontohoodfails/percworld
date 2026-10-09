@@ -108,6 +108,14 @@ file = "mods/en_extrautilities2-0.1.0.jar"
 hash = "19f1c68f7567e3440eb54523adfd878c3f427535075e831968debfc40cc5470e"
 
 [[files]]
+file = "mods/en_industrialcraft2-0.1.0.jar"
+hash = "f8a16a16d22f2f35e24cc75e7f6ab3f345277ca3b2a6629e8aca8cfb1b1cc051"
+
+[[files]]
+file = "mods/en_tconstruct-0.1.0.jar"
+hash = "4fb5b20c696e8717af4dfec54eec21ab90607c0fb9e4de54bd3cacfd1c3e216a"
+
+[[files]]
 file = "mods/explorify.pw.toml"
 hash = "6adce6422e74091638dbd7872270ee58d9a22dc18340580f809cc50c739e0d4f"
 metafile = true
@@ -320,11 +328,6 @@ metafile = true
 [[files]]
 file = "mods/spelunkery.pw.toml"
 hash = "cd2c6fa89eecaaa1aadf369b043ceb45e99778cacd590e3fc01b0dcae2e6557d"
-metafile = true
-
-[[files]]
-file = "mods/superb-warfare.pw.toml"
-hash = "af5166e3cf71f3d1510e463ae6d960883face5101825a9daee5760c7eae64a98"
 metafile = true
 
 [[files]]
