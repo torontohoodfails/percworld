@@ -19,7 +19,7 @@ hash = "efbc397e7f89382509d7e8225f01deb5a640eb088c3289fce84a95a5876f36d1"
 
 [[files]]
 file = "config/sparsestructures.json5"
-hash = "ad123f3b0e6a5d116afe2c460f6065dacdd2b58451f0b24b36c5b5882350e61a"
+hash = "b949fc812f89b99e38c95081ac638ce99523070ff2d1fcafedbc5f2a0c3db706"
 
 [[files]]
 file = "config/tectonic.json"
