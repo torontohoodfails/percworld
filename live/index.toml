@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/vortex-1.0.0.jar"
-hash = "8f6b4bef596d79209a91986c7df1763334037f68c7c2a7082d1506b9d5810a03"
+hash = "1f9c4a8580868cf8f72506b6d50ad42f0c80a412055c99e747149249f15dc8f1"
 
 [[files]]
 file = "mods/vortexcore-1.0.0.jar"
