@@ -85,6 +85,11 @@ hash = "8e63fec28c22201636bd56f0170e9b85e26b558c4ec7215e068f53d3518dc5bb"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
 file = "mods/draconicclassic-0.1.0.jar"
 hash = "4e6d88550c1a43e829d0bdea56dd9486400cb0a9d87c79259569f7158e6d6dc3"
 
