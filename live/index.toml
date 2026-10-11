@@ -14,6 +14,14 @@ hash = "e94d9beedba3f296497fa188e96a89b7d6d0f55c05452fc1d0f1126e375d16f6"
 preserve = true
 
 [[files]]
+file = "config/jade/jade.json"
+hash = "5e44c7a5d753924c81d742885544dc38bbc1a60ab61bba57e955eb49c024ab5b"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "5144ce90710552631ae011a120866cc9e15b80ae7102077d889cbbc5ffe053a6"
+
+[[files]]
 file = "config/mtsconfig.json"
 hash = "efbc397e7f89382509d7e8225f01deb5a640eb088c3289fce84a95a5876f36d1"
 
@@ -23,7 +31,7 @@ hash = "b949fc812f89b99e38c95081ac638ce99523070ff2d1fcafedbc5f2a0c3db706"
 
 [[files]]
 file = "config/tectonic.json"
-hash = "305295eaa9b9181a172fc7ff13b7d3cc1a68436253ca16f958568c682949ad4b"
+hash = "8b085675b0e02611db542b8b40f50a3061d823018aee8da67bc2a15af92a0d9b"
 
 [[files]]
 file = "config/tweakeroo.json"
@@ -55,6 +63,11 @@ hash = "ba58df8c82fc920a316a3ad2f8d52e985e34cd09713487ccbb5ea778b6168c2d"
 metafile = true
 
 [[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "0752ec9f3ef57c06a49813e1d1d1d442a124b3a7586bd232003055dc343a317f"
+metafile = true
+
+[[files]]
 file = "mods/chisels-bits.pw.toml"
 hash = "f2ed10b48dbe7b9efcbd819e5625e14a6eeaff859ddd0a6044898925d29e76e0"
 metafile = true
@@ -77,6 +90,11 @@ metafile = true
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "08a334ae5565e122d26b819cba16ce784776a10fe100ab2b22de72a5a2bac653"
+metafile = true
+
+[[files]]
+file = "mods/cryonicconfig.pw.toml"
+hash = "eae581f5bad381846ee73f31f511b91188da20579f2d42f90d828cf8c43bd248"
 metafile = true
 
 [[files]]
@@ -211,6 +229,11 @@ metafile = true
 [[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "28f46d68adde7667d778e2d6a31c4fe3834d1d7a93ec5059937da3f667956ebe"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "efafea92ef966ffe7c3c31209b643a9bbcccb3a8a5a02347b49ff50e015980fe"
 metafile = true
 
 [[files]]
@@ -380,11 +403,11 @@ metafile = true
 
 [[files]]
 file = "mods/vortex-1.0.0.jar"
-hash = "1f9c4a8580868cf8f72506b6d50ad42f0c80a412055c99e747149249f15dc8f1"
+hash = "01d9db7c8e1ab9fb9a0756e92b9acd72cbd1c558f47be6e4a94295fffb632828"
 
 [[files]]
 file = "mods/vortexcore-1.0.0.jar"
-hash = "01a9aaac1e6ed2a9f5dfcd5f9bb9692b914baba56d15c084875158e5c3505941"
+hash = "acc5c5a74f9920b866ba5008c69dbee3c7856ae250b77cae94a546fa10ba9b63"
 
 [[files]]
 file = "mods/vortexguard-1.0.0.jar"
@@ -466,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "7b0b15a5f54ef559eff7459b418c0be29eb103d0a903f993caa9392aaec69b16"
+hash = "e7cd963c9eb71a4458e2080a3b00a894549b217ba731ffa3a376e0e8e02ba434"
 preserve = true
 
 [[files]]
