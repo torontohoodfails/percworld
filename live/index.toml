@@ -14,6 +14,10 @@ hash = "e94d9beedba3f296497fa188e96a89b7d6d0f55c05452fc1d0f1126e375d16f6"
 preserve = true
 
 [[files]]
+file = "config/fml.toml"
+hash = "8892557d332d1c6840f5b6bc1e9c60cab81362786daa7f07c071a158892531ff"
+
+[[files]]
 file = "config/jade/jade.json"
 hash = "5e44c7a5d753924c81d742885544dc38bbc1a60ab61bba57e955eb49c024ab5b"
 
@@ -31,7 +35,7 @@ hash = "b949fc812f89b99e38c95081ac638ce99523070ff2d1fcafedbc5f2a0c3db706"
 
 [[files]]
 file = "config/tectonic.json"
-hash = "8b085675b0e02611db542b8b40f50a3061d823018aee8da67bc2a15af92a0d9b"
+hash = "305295eaa9b9181a172fc7ff13b7d3cc1a68436253ca16f958568c682949ad4b"
 
 [[files]]
 file = "config/tweakeroo.json"
@@ -109,7 +113,7 @@ metafile = true
 
 [[files]]
 file = "mods/draconicclassic-0.1.0.jar"
-hash = "4e6d88550c1a43e829d0bdea56dd9486400cb0a9d87c79259569f7158e6d6dc3"
+hash = "480c471a706a4c389c195d7047e70fdf0d1a483abfedf9236eb840a4d9272706"
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
@@ -136,7 +140,7 @@ hash = "d77d877671031bc084193401b49d6600d182e67660bc86d2f5e305453fe51b7c"
 
 [[files]]
 file = "mods/en_extrautilities2-0.1.0.jar"
-hash = "470dcfb019d5469e4ffef28b9ffb96fafaa19a3bd7faf844f60b6b7ddc6b1e2b"
+hash = "51e762cc669d907bfd14d4fb8f37428c1845540ea382b329d87eaa0594e9c1d9"
 
 [[files]]
 file = "mods/en_industrialcraft2-0.1.0.jar"
@@ -144,7 +148,7 @@ hash = "a06344044a7d4a3522a8e84b027a7514b660c13b74dc299661410371da32209e"
 
 [[files]]
 file = "mods/en_tconstruct-0.1.0.jar"
-hash = "b4360adad242157601e5c881815bfcb5dcc1d7dc0289b991c783d0a7cb56eb82"
+hash = "c5e0f59dccc1adc705f6a2eca454bbd306252c6fc366270076adaa84d993ac1d"
 
 [[files]]
 file = "mods/explorify.pw.toml"
@@ -403,11 +407,11 @@ metafile = true
 
 [[files]]
 file = "mods/vortex-1.0.0.jar"
-hash = "f9e9633ae8826ba1b85779c4275c61b67bf2ecc4e70f8f8d352ce8cf4ef75a53"
+hash = "e1f9f1a3c4e080d41b4dfaa8e5d3f093fcf76a0e5cd4b973712d61b90932b161"
 
 [[files]]
 file = "mods/vortexcore-1.0.0.jar"
-hash = "acc5c5a74f9920b866ba5008c69dbee3c7856ae250b77cae94a546fa10ba9b63"
+hash = "6ffd2e9514776e43dbf5d2519b3ff52c0406d7796f34d64bebf98a56d03ee5fa"
 
 [[files]]
 file = "mods/vortexguard-1.0.0.jar"
