@@ -1,0 +1,4 @@
+[items]
+	[items.mobCharmFragment]
+		dropChance = 0.0
+		lootingMultiplier = 0.0
