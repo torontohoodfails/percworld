@@ -35,7 +35,7 @@ hash = "b949fc812f89b99e38c95081ac638ce99523070ff2d1fcafedbc5f2a0c3db706"
 
 [[files]]
 file = "config/tectonic.json"
-hash = "305295eaa9b9181a172fc7ff13b7d3cc1a68436253ca16f958568c682949ad4b"
+hash = "8b085675b0e02611db542b8b40f50a3061d823018aee8da67bc2a15af92a0d9b"
 
 [[files]]
 file = "config/tweakeroo.json"
