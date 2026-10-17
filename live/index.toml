@@ -15,7 +15,7 @@ preserve = true
 
 [[files]]
 file = "config/fml.toml"
-hash = "8892557d332d1c6840f5b6bc1e9c60cab81362786daa7f07c071a158892531ff"
+hash = "3f4e078661ef71d5498ced6d38e6c65bae0c2e79676b47e66f09c3427847d740"
 
 [[files]]
 file = "config/jade/jade.json"
@@ -35,7 +35,7 @@ hash = "689d533b857badb416a8cb7fd2ce42da7d09376b63e1e2471dd8460672a768d9"
 
 [[files]]
 file = "config/sparsestructures.json5"
-hash = "b949fc812f89b99e38c95081ac638ce99523070ff2d1fcafedbc5f2a0c3db706"
+hash = "ece9bd108cafbced66294695fe8af87a2b23ac2f19a5599d9770cbfe9f1b2dbc"
 
 [[files]]
 file = "config/tectonic.json"
@@ -78,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/chisels-bits.pw.toml"
 hash = "f2ed10b48dbe7b9efcbd819e5625e14a6eeaff859ddd0a6044898925d29e76e0"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "68cc51e721e993a8b7a2cbaf45369933b22b07a9c82327ab14757ee10684aa81"
 metafile = true
 
 [[files]]
@@ -140,7 +145,7 @@ hash = "3fa28f888dfc147222233966755a7443a36b8ed72b7adcbb34453b97a1fcb24f"
 
 [[files]]
 file = "mods/en_derio-0.1.0.jar"
-hash = "d77d877671031bc084193401b49d6600d182e67660bc86d2f5e305453fe51b7c"
+hash = "ff99a7e55ff8693f13983583a1247b2ee9c3ec6bb1b1908f1b58eb869276c2af"
 
 [[files]]
 file = "mods/en_extrautilities2-0.1.0.jar"
@@ -153,6 +158,10 @@ hash = "a06344044a7d4a3522a8e84b027a7514b660c13b74dc299661410371da32209e"
 [[files]]
 file = "mods/en_tconstruct-0.1.0.jar"
 hash = "c5e0f59dccc1adc705f6a2eca454bbd306252c6fc366270076adaa84d993ac1d"
+
+[[files]]
+file = "mods/en_weapons-0.1.0.jar"
+hash = "d1d9d81265fc6c2e96288d7479815a629b018ab7d8b90bac63fa75bbf93e3f2b"
 
 [[files]]
 file = "mods/explorify.pw.toml"
@@ -295,6 +304,11 @@ hash = "697e5d429406179e06f02a1f4fe9e337df56adf36cee6c35e9f08b6bcd0cade6"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage-emi-integration.pw.toml"
+hash = "4a5af515250fbde913593346d51b2c4ac8f660e71ba21f65f49a02209bb65509"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "aaf0d7287d0b48ed96307ffa1fd8bbe7a3d6bfc837be1e6ba42c09063b988e69"
 metafile = true
@@ -380,11 +394,6 @@ hash = "993b4e4970e1a5ef2fe7c6712212f57a84dcf8b31d4b6863540b6395c4f9ce09"
 metafile = true
 
 [[files]]
-file = "mods/spelunkery.pw.toml"
-hash = "cd2c6fa89eecaaa1aadf369b043ceb45e99778cacd590e3fc01b0dcae2e6557d"
-metafile = true
-
-[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "25fdaaf01546f4083aa00f85b6c1c4b67434f6d068d3e1725d4437576ca34a7a"
 metafile = true
@@ -411,11 +420,11 @@ metafile = true
 
 [[files]]
 file = "mods/vortex-1.0.0.jar"
-hash = "11c4a3d7adc4e3c1c600a2a72d90afdcb95eb06b9a42be8ff871c491fdb96ef6"
+hash = "ed82bf89e450285d61d697966664b4910de13c1fd33ccee1f14ba329adfc1ff7"
 
 [[files]]
 file = "mods/vortexcore-1.0.0.jar"
-hash = "6ffd2e9514776e43dbf5d2519b3ff52c0406d7796f34d64bebf98a56d03ee5fa"
+hash = "771892873b9cc85363f865b032ee8b9949d5816a3b2c69a6f9d622da1dfad0a7"
 
 [[files]]
 file = "mods/vortexguard-1.0.0.jar"
