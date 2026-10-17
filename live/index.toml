@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/vortex-1.0.0.jar"
-hash = "ed82bf89e450285d61d697966664b4910de13c1fd33ccee1f14ba329adfc1ff7"
+hash = "4f3ae8105fd4b52e2b28b4e7526632866f5722ea69ba43c3dae0e5c94f8c2d50"
 
 [[files]]
 file = "mods/vortexcore-1.0.0.jar"
@@ -428,7 +428,7 @@ hash = "771892873b9cc85363f865b032ee8b9949d5816a3b2c69a6f9d622da1dfad0a7"
 
 [[files]]
 file = "mods/vortexguard-1.0.0.jar"
-hash = "255e9b3446b5760473fe42117538de94f8389c83e2e02b05280fb43b0691cdcd"
+hash = "5d4439cb8612370d0521b9c075392adfb134d382059d970f9d2730a6ec3a5331"
 
 [[files]]
 file = "mods/vortexwireless-1.0.0.jar"
