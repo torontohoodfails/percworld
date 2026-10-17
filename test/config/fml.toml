@@ -1,2 +1,4 @@
 #Disable the update-available indicator beside Mods
 versionCheck = false
+#No early window (fox and progress bars): the loading screen is drawn by the Vortex mod in the title screen look
+earlyWindowControl = false
