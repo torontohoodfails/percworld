@@ -56,6 +56,10 @@ file = "config/vortex/changelog.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/xaero/lib/common.cfg"
+hash = "d46dfe4bfd416bfcdd2b757d33744b4e4595f489b6507eae3c62f5389b11a7c1"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
@@ -161,7 +165,7 @@ hash = "c5e0f59dccc1adc705f6a2eca454bbd306252c6fc366270076adaa84d993ac1d"
 
 [[files]]
 file = "mods/en_weapons-0.1.0.jar"
-hash = "55c3164f6b28f8bdf2cdac3a5597bb8cf67063515ecdb9707ea0d439305afe71"
+hash = "7618de1bc9204abddeebae710a9b77a0e4cd35b1b7a4658dfd259ed213c53528"
 
 [[files]]
 file = "mods/explorify.pw.toml"
@@ -428,7 +432,7 @@ hash = "771892873b9cc85363f865b032ee8b9949d5816a3b2c69a6f9d622da1dfad0a7"
 
 [[files]]
 file = "mods/vortexguard-1.0.0.jar"
-hash = "5d4439cb8612370d0521b9c075392adfb134d382059d970f9d2730a6ec3a5331"
+hash = "c1b54f5e8bacffa445223891b5fbb1eb12f2c5684b2003f376cf71da5d2aed94"
 
 [[files]]
 file = "mods/vortexwireless-1.0.0.jar"
