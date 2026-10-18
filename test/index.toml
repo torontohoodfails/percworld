@@ -161,7 +161,7 @@ hash = "c5e0f59dccc1adc705f6a2eca454bbd306252c6fc366270076adaa84d993ac1d"
 
 [[files]]
 file = "mods/en_weapons-0.1.0.jar"
-hash = "d1d9d81265fc6c2e96288d7479815a629b018ab7d8b90bac63fa75bbf93e3f2b"
+hash = "55c3164f6b28f8bdf2cdac3a5597bb8cf67063515ecdb9707ea0d439305afe71"
 
 [[files]]
 file = "mods/explorify.pw.toml"
@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/vortex-1.0.0.jar"
-hash = "4f3ae8105fd4b52e2b28b4e7526632866f5722ea69ba43c3dae0e5c94f8c2d50"
+hash = "b170c5d4c344be564d9887ea4c6fc1ca5f854774261e835a7bc54a0f97abbeb4"
 
 [[files]]
 file = "mods/vortexcore-1.0.0.jar"
