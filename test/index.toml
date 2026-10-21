@@ -9,6 +9,10 @@ file = "config/appleskin-client.toml"
 hash = "6a3624ed584e6d2c4323957c3ca3d17bf2c01c7bbb73b9ee487378ff69d88aba"
 
 [[files]]
+file = "config/bigglobe/Big Globe.json5"
+hash = "d9ed93b2d49d125f6b4d513244212f0e355b5a1619d388b80eacfc11c7fda48d"
+
+[[files]]
 file = "config/chatplus/chatplus-v2.7.0.json"
 hash = "e94d9beedba3f296497fa188e96a89b7d6d0f55c05452fc1d0f1126e375d16f6"
 preserve = true
