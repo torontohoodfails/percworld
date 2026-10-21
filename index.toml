@@ -187,6 +187,11 @@ hash = "6adce6422e74091638dbd7872270ee58d9a22dc18340580f809cc50c739e0d4f"
 metafile = true
 
 [[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "7d61ad815f97afb27f7e97475e80376aa19fecf25a1b04a500a4c3a6e5055973"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
@@ -438,15 +443,19 @@ metafile = true
 
 [[files]]
 file = "mods/vortex-1.0.0.jar"
-hash = "904dc370f1751be63caf1d933eb7427e13945eb18ef9ba871a5aa568027b3684"
+hash = "321ec6fab56b0f8e7307303d87ebe9a4aa2a68a44368d7e92d8281192a1e2e1f"
 
 [[files]]
 file = "mods/vortexcore-1.0.0.jar"
-hash = "0957aa7e64ef6701a2161365dbe1aaf32c2ef4b5981b2bc7e6c3e24af266b4a3"
+hash = "73098831c95bd60324e13f344879f6066fb950e6248f170e1fdb58549e43f429"
 
 [[files]]
 file = "mods/vortexguard-1.0.0.jar"
 hash = "c1b54f5e8bacffa445223891b5fbb1eb12f2c5684b2003f376cf71da5d2aed94"
+
+[[files]]
+file = "mods/vortexutilities-1.0.0.jar"
+hash = "7c07ed7681c63ef5e82376a152a9a7f3911ac7640f3a0df68075d1b04b34d48a"
 
 [[files]]
 file = "mods/vortexwireless-1.0.0.jar"
