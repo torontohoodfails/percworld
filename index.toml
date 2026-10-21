@@ -9,6 +9,10 @@ file = "config/appleskin-client.toml"
 hash = "6a3624ed584e6d2c4323957c3ca3d17bf2c01c7bbb73b9ee487378ff69d88aba"
 
 [[files]]
+file = "config/bigglobe/Big Globe.json5"
+hash = "d9ed93b2d49d125f6b4d513244212f0e355b5a1619d388b80eacfc11c7fda48d"
+
+[[files]]
 file = "config/chatplus/chatplus-v2.7.0.json"
 hash = "e94d9beedba3f296497fa188e96a89b7d6d0f55c05452fc1d0f1126e375d16f6"
 preserve = true
@@ -70,6 +74,11 @@ hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
+file = "mods/big-globe.pw.toml"
+hash = "b6efff59ecce4b4902ce6c6208bfa3c38e74a525817878c77062acc0ff067f64"
+metafile = true
+
+[[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "ba58df8c82fc920a316a3ad2f8d52e985e34cd09713487ccbb5ea778b6168c2d"
 metafile = true
@@ -102,6 +111,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "a38d72ca403e9064338be6e0cf69532768b0c1aba8f88703a8ce74c2734da522"
 metafile = true
 
 [[files]]
@@ -165,7 +179,7 @@ hash = "c5e0f59dccc1adc705f6a2eca454bbd306252c6fc366270076adaa84d993ac1d"
 
 [[files]]
 file = "mods/en_weapons-0.1.0.jar"
-hash = "87074c316317dfe23fec0f5feadee95f226db679ab074d71a2b6ea2a651b3140"
+hash = "11cbab37046060fa7e98fcaa8804eac9fd7e534277505b40ecc6f65f4c7543d4"
 
 [[files]]
 file = "mods/explorify.pw.toml"
@@ -180,6 +194,11 @@ metafile = true
 [[files]]
 file = "mods/flat-colored-blocks-forge.pw.toml"
 hash = "b36903f761d06961eacb9ef849873e071bae3a65957fc4e2c33539322e64b607"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "c490f7b680875f034af39a1556911d6edb1dcdd76a114ee6a4eca0f158cd92b2"
 metafile = true
 
 [[files]]
@@ -413,11 +432,6 @@ hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
-metafile = true
-
-[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "a9afe82b3d1b4975dd9f8b3272898450aeb29365678b3779059977301f88c101"
 metafile = true
@@ -428,7 +442,7 @@ hash = "904dc370f1751be63caf1d933eb7427e13945eb18ef9ba871a5aa568027b3684"
 
 [[files]]
 file = "mods/vortexcore-1.0.0.jar"
-hash = "ecaa6645f141660979e0b90a99daf00c5a6c54d4709832d7030661c541d955d6"
+hash = "0957aa7e64ef6701a2161365dbe1aaf32c2ef4b5981b2bc7e6c3e24af266b4a3"
 
 [[files]]
 file = "mods/vortexguard-1.0.0.jar"
