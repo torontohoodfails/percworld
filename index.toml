@@ -447,7 +447,7 @@ hash = "321ec6fab56b0f8e7307303d87ebe9a4aa2a68a44368d7e92d8281192a1e2e1f"
 
 [[files]]
 file = "mods/vortexcore-1.0.0.jar"
-hash = "73098831c95bd60324e13f344879f6066fb950e6248f170e1fdb58549e43f429"
+hash = "d5a3bd938235c1fadc3b0911abb03bb5ed510e09cbc67f6e37d000734d3adacc"
 
 [[files]]
 file = "mods/vortexguard-1.0.0.jar"
@@ -455,7 +455,7 @@ hash = "c1b54f5e8bacffa445223891b5fbb1eb12f2c5684b2003f376cf71da5d2aed94"
 
 [[files]]
 file = "mods/vortexutilities-1.0.0.jar"
-hash = "7c07ed7681c63ef5e82376a152a9a7f3911ac7640f3a0df68075d1b04b34d48a"
+hash = "7b9a6fd0ed4a4c3f9f2e8803cb391f9f81b196aaca9b95db1725de05478e1f25"
 
 [[files]]
 file = "mods/vortexwireless-1.0.0.jar"
