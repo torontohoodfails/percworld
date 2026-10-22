@@ -38,6 +38,10 @@ file = "config/reliquary-common.toml"
 hash = "689d533b857badb416a8cb7fd2ce42da7d09376b63e1e2471dd8460672a768d9"
 
 [[files]]
+file = "config/sensible_stackables/config.toml"
+hash = "7dc5084174bd9c15c8662a7aa5573bcf88d82ed68bb25dec601e8d70340268d1"
+
+[[files]]
 file = "config/sparsestructures.json5"
 hash = "ece9bd108cafbced66294695fe8af87a2b23ac2f19a5599d9770cbfe9f1b2dbc"
 

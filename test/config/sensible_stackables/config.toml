@@ -1,0 +1,9 @@
+# Don't change this! Version used to track needed updates.
+version = 2
+# percworld: only snowballs change (256); every other item keeps its normal stack size
+items = [
+    [ "minecraft:snowball", 256 ]
+]
+splashPotionCooldown = 0
+uncapStackSize = true
+commonStackSize = 64
