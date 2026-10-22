@@ -227,6 +227,11 @@ hash = "108739f2fdaa6a885a3217ae692b2521ab10b8e71fa1222c67274ea0562649a5"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "932c65fb598293dba5dc60a76fc64c2579db427018b10dd4757dd421d9abcaf0"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
 metafile = true
@@ -437,6 +442,11 @@ hash = "9c79da5b6e8579da097136260733bb1949278c788684960b0779e60811218488"
 metafile = true
 
 [[files]]
+file = "mods/sensible-stackables.pw.toml"
+hash = "6914b2abf0e5cd54a7db3823eb691abf4738eabfe785d522b0a5fbd7fc3645c0"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
@@ -507,7 +517,7 @@ hash = "74f47e8f26fbd33123c999d3eafc824705f217baf88d87313de4516e886f6efe"
 
 [[files]]
 file = "mods/vortexcore-1.0.0.jar"
-hash = "0aa5eeadd7427153d150cadcd13e630cd0da266f849397d21a72e276a209967a"
+hash = "cc27e856cbde36ac9b547ea2259a98d03ae90bba6a6b9f7decffabe13f6409f1"
 
 [[files]]
 file = "mods/vortexguard-1.0.0.jar"
