@@ -38,6 +38,10 @@ file = "config/reliquary-common.toml"
 hash = "689d533b857badb416a8cb7fd2ce42da7d09376b63e1e2471dd8460672a768d9"
 
 [[files]]
+file = "config/sensible_stackables/config.toml"
+hash = "7dc5084174bd9c15c8662a7aa5573bcf88d82ed68bb25dec601e8d70340268d1"
+
+[[files]]
 file = "config/sparsestructures.json5"
 hash = "ece9bd108cafbced66294695fe8af87a2b23ac2f19a5599d9770cbfe9f1b2dbc"
 
@@ -227,6 +231,11 @@ hash = "108739f2fdaa6a885a3217ae692b2521ab10b8e71fa1222c67274ea0562649a5"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "932c65fb598293dba5dc60a76fc64c2579db427018b10dd4757dd421d9abcaf0"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
 metafile = true
@@ -264,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "391f5b0b0fcae3ce77be6ab211435228faec79cb92c50d69471c52ba36b139d6"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
 
 [[files]]
@@ -437,6 +451,11 @@ hash = "9c79da5b6e8579da097136260733bb1949278c788684960b0779e60811218488"
 metafile = true
 
 [[files]]
+file = "mods/sensible-stackables.pw.toml"
+hash = "6914b2abf0e5cd54a7db3823eb691abf4738eabfe785d522b0a5fbd7fc3645c0"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
@@ -507,7 +526,7 @@ hash = "74f47e8f26fbd33123c999d3eafc824705f217baf88d87313de4516e886f6efe"
 
 [[files]]
 file = "mods/vortexcore-1.0.0.jar"
-hash = "0aa5eeadd7427153d150cadcd13e630cd0da266f849397d21a72e276a209967a"
+hash = "cc27e856cbde36ac9b547ea2259a98d03ae90bba6a6b9f7decffabe13f6409f1"
 
 [[files]]
 file = "mods/vortexguard-1.0.0.jar"
@@ -600,3 +619,13 @@ preserve = true
 file = "servers.dat"
 hash = "4b03504a7c2a7aae15141d5cdd3576499a956740ff7b6e7ac2a65a39838a494b"
 preserve = true
+
+[[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "8ffd81a5e0b4c3bc2daf0d86714ef56df4beb1ed87a5c41c4e9bbb94a7006bc1"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "1e4109987a9d4b0bab4302601e08b365b0e3d5b3a39b14b7134f8655c29a6bcc"
+metafile = true

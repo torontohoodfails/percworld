@@ -1,0 +1,13 @@
+name = "Sensible Stackables"
+filename = "sensible_stackables-neoforge-3.1.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5lQcMjaC/versions/AOOD8PRf/sensible_stackables-neoforge-3.1.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "3b72f2b790a4d270ddae9d9cd86c390a60d5e062c12bebb0010660f51b6a8e0bccab69b434569aeacc3309d50fbccbca96a2a71fd212948f9d907dd7d178d813"
+
+[update]
+[update.modrinth]
+mod-id = "5lQcMjaC"
+version = "AOOD8PRf"
