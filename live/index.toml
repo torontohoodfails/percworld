@@ -139,6 +139,11 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "0c20fea3407ed0db85b4b171f1820a24987f2659946fadd30bae044205041b09"
+metafile = true
+
+[[files]]
 file = "mods/draconicclassic-0.1.0.jar"
 hash = "480c471a706a4c389c195d7047e70fdf0d1a483abfedf9236eb840a4d9272706"
 
@@ -175,11 +180,11 @@ hash = "a06344044a7d4a3522a8e84b027a7514b660c13b74dc299661410371da32209e"
 
 [[files]]
 file = "mods/en_tconstruct-0.1.0.jar"
-hash = "c5e0f59dccc1adc705f6a2eca454bbd306252c6fc366270076adaa84d993ac1d"
+hash = "390456f5e33377530ed4918199f3557a205a4398b4f4d529821bfa6d437e1bbc"
 
 [[files]]
 file = "mods/en_weapons-0.1.0.jar"
-hash = "11cbab37046060fa7e98fcaa8804eac9fd7e534277505b40ecc6f65f4c7543d4"
+hash = "7666c1d437f5c877ad984caf1bc707f1e591f024723dd61cfd2256cf015d19c6"
 
 [[files]]
 file = "mods/explorify.pw.toml"
