@@ -752,7 +752,7 @@ _version = 5
 				# 
 				# Fastest: CHUNK
 				# Fanciest: BLOCK
-				maxHorizontalResolution = "BLOCK"
+				maxHorizontalResolution = "TWO_BLOCKS"
 				#
 				# If true LODs will fade away as you get closer to them. 
 				# If false LODs will cut off abruptly at a set distance from the camera. 
@@ -809,7 +809,7 @@ _version = 5
 				# Note: this is a best effort number. 
 				# The actual render distance may be above or below this number 
 				# depending on your other graphic settings.
-				lodChunkRenderDistanceRadius = 256
+				lodChunkRenderDistanceRadius = 96
 				#
 				# How should the sides and bottom of grass block LODs render? 
 				# 
@@ -822,13 +822,13 @@ _version = 5
 				# 
 				# Higher settings will increase the distance between drops 
 				# but will increase memory and GPU usage.
-				horizontalQuality = "MEDIUM"
+				horizontalQuality = "LOWEST"
 				#
 				# How should LOD transparency be handled. 
 				# 
 				# COMPLETE: LODs will render transparent. 
 				# DISABLED: LODs will be opaque.
-				transparency = "COMPLETE"
+				transparency = "DISABLED"
 				#
 				# This is the same as vanilla Biome Blending settings for Lod area. 
 				#     Note: anything above '0' will slow down LOD loading time. 
@@ -843,7 +843,7 @@ _version = 5
 				# NONE: Fastest, there will be a pronounced border between DH and MC rendering. 
 				# SINGLE_PASS: Fades after MC's transparent pass, opaque blocks underwater won't be faded. 
 				# DOUBLE_PASS: Slowest, fades after both MC's opaque and transparent passes, provides the smoothest transition.
-				vanillaFadeMode = "DOUBLE_PASS"
+				vanillaFadeMode = "SINGLE_PASS"
 				#
 				# If true LOD quality will increase when the camera is zoomed in, 
 				# IE when using a spyglass or zoom mod. 
