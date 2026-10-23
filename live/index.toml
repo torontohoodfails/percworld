@@ -160,11 +160,6 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "0c20fea3407ed0db85b4b171f1820a24987f2659946fadd30bae044205041b09"
-metafile = true
-
-[[files]]
 file = "mods/draconicclassic-0.1.0.jar"
 hash = "480c471a706a4c389c195d7047e70fdf0d1a483abfedf9236eb840a4d9272706"
 
