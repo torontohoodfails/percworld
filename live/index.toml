@@ -22,6 +22,10 @@ hash = "e94d9beedba3f296497fa188e96a89b7d6d0f55c05452fc1d0f1126e375d16f6"
 preserve = true
 
 [[files]]
+file = "config/entityculling.json"
+hash = "0af000db9ad9ce106d1afd6ec17c49e1da4a93de929a86f07f077ecec5d6a2c2"
+
+[[files]]
 file = "config/fml.toml"
 hash = "3f4e078661ef71d5498ced6d38e6c65bae0c2e79676b47e66f09c3427847d740"
 
@@ -529,11 +533,11 @@ metafile = true
 
 [[files]]
 file = "mods/vortex-1.0.0.jar"
-hash = "e6424a693e19bb4647eb95c6c47ea6db9adacf5cc3cc6c55bd5cf88d50d2d4e3"
+hash = "2eee5979925bf17c1f5c245eb5a3f2a6a08281d012d38260f556ecba33aac1ca"
 
 [[files]]
 file = "mods/vortexcore-1.0.0.jar"
-hash = "f65b951c70a7f477b5c84efc42345d795b83b1dfa24a8ff1286ed5a4daa60e98"
+hash = "67c8a30bd1d4c858ce408ca2c438aeda2aa9480e386bf4fc90c36755edac56dc"
 
 [[files]]
 file = "mods/vortexguard-1.0.0.jar"
