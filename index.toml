@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/draconicclassic-0.1.0.jar"
-hash = "480c471a706a4c389c195d7047e70fdf0d1a483abfedf9236eb840a4d9272706"
+hash = "6319b24b0c3fc5355ea0f8b06d92088790244ecd03b1a59f5099a7133faaf2b4"
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
@@ -192,7 +192,7 @@ hash = "3fa28f888dfc147222233966755a7443a36b8ed72b7adcbb34453b97a1fcb24f"
 
 [[files]]
 file = "mods/en_derio-0.1.0.jar"
-hash = "cf867ed8599b9ea9d5db72da0475d4613608eb7cb5e3eb5dc7e70188a731ba54"
+hash = "f6423cc5ccebf683ed702687a4e79f7ef0847ef424ab6912fab117b7729430a1"
 
 [[files]]
 file = "mods/en_extrautilities2-0.1.0.jar"
@@ -208,7 +208,7 @@ hash = "eb21a16e2864ce3572f428fc89e6e728f4868bc2d081d6586d83286b85c2c702"
 
 [[files]]
 file = "mods/en_weapons-0.1.0.jar"
-hash = "c587f48c55d8262e1762130e375e8fc7c1e774dd4c8a332eeebf2ca58af1340f"
+hash = "39d982144f5610b235d12f9fc8cdd0a8b1c678a10de3172b31c5b8e6176f9fbd"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/vortex-1.0.0.jar"
-hash = "d4df337a4bad61935d79a11c7f47b1a427adddf0a4745c2a554ecd6614886247"
+hash = "13e6e9eb86292dbb35c4417ea2e62877360cfea20b1f081bbfd7e93e831757d6"
 
 [[files]]
 file = "mods/vortexcore-1.0.0.jar"
