@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/draconicclassic-0.1.0.jar"
-hash = "6319b24b0c3fc5355ea0f8b06d92088790244ecd03b1a59f5099a7133faaf2b4"
+hash = "95b49ff6fe95fb303a6e8b6934698be1fb06731f6f69db343f8b76a2db3f9561"
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
@@ -581,7 +581,7 @@ hash = "8b9e486e13e0db773c0dca169b08404b405f6c7e22201eb25361fb05c232c5bb"
 
 [[files]]
 file = "mods/vortexcore-1.0.0.jar"
-hash = "f1ba0630412271aaea29e385bf398bdd37135300dd12446f6b793292c10866f1"
+hash = "6c3feb8c947ec9489541829edc89f8ada0d25c942f99362efcd18c5774fd276f"
 
 [[files]]
 file = "mods/vortexguard-1.0.0.jar"
