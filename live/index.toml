@@ -113,6 +113,11 @@ hash = "ba58df8c82fc920a316a3ad2f8d52e985e34cd09713487ccbb5ea778b6168c2d"
 metafile = true
 
 [[files]]
+file = "mods/cable-tiers.pw.toml"
+hash = "981db00d9583c9ccc1cd9703de071c45ed997a5e4fde5994632d856584a52002"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
@@ -177,8 +182,18 @@ hash = "b9244dca740d333c22f3425991fdd2fd40d3ae12384079a40a6fb7d4bca18a18"
 metafile = true
 
 [[files]]
+file = "mods/edivadlib.pw.toml"
+hash = "e2ee2481b63a012bdfb8c9f588788dd2f116ff48298014bb3e00d08a224fe14f"
+metafile = true
+
+[[files]]
 file = "mods/elevatormod.pw.toml"
 hash = "58a52192b85fb49a4b772cd54677f84515a2dfc26a14d54eb880ed01f1186c5a"
+metafile = true
+
+[[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
 metafile = true
 
 [[files]]
@@ -218,6 +233,16 @@ metafile = true
 [[files]]
 file = "mods/explorify.pw.toml"
 hash = "6adce6422e74091638dbd7872270ee58d9a22dc18340580f809cc50c739e0d4f"
+metafile = true
+
+[[files]]
+file = "mods/extra-disks.pw.toml"
+hash = "dbe30d148364164e29902e67d8f01bc31abfe82cdcdbe591f5fdbddd87d20bd8"
+metafile = true
+
+[[files]]
+file = "mods/extrastorage.pw.toml"
+hash = "c1f65b1549e8e159b653b308af75d82f5172261068881386334aa499ba85891d"
 metafile = true
 
 [[files]]
@@ -406,8 +431,23 @@ hash = "6bee7be8af8f9247fbf84dcd1ec9af2adaa42e55d52ab8a5bfe9b6ff7c94da46"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage-curios-integration.pw.toml"
+hash = "ce6f405d86fa560f11825b1c92ac8ffe27e5d8b5e1e576ca9b464bb35bbe6c7a"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage-emi-integration.pw.toml"
 hash = "4a5af515250fbde913593346d51b2c4ac8f660e71ba21f65f49a02209bb65509"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-mekanism-integration.pw.toml"
+hash = "b42b5799945bfb6aed214e32ccb4bbdb60fc86ec05cfa3178d782dfff27cbed1"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-quartz-arsenal.pw.toml"
+hash = "dfbd1d91b723a8a4c15065ee9b9ce2e9996dd7d69f6299436a5ab1200211ae76"
 metafile = true
 
 [[files]]
@@ -537,11 +577,11 @@ metafile = true
 
 [[files]]
 file = "mods/vortex-1.0.0.jar"
-hash = "5afa5a3832370230254c88730a5f79a31538e89e0643285659eedaa94b9587ba"
+hash = "2a53f8d017ef9741d1e4d03f7e45863980258c1aab672b658940d07471a6f76c"
 
 [[files]]
 file = "mods/vortexcore-1.0.0.jar"
-hash = "59042db12dce586b0a44704b735cfbed2ed426d36b8ab301a0a07b9b8e7580d6"
+hash = "0d9f3a40def38f2eb3b353e6c382fc09a3f27d8d9f08f2bd4ecd6d835932f5fa"
 
 [[files]]
 file = "mods/vortexguard-1.0.0.jar"
@@ -549,7 +589,7 @@ hash = "c1b54f5e8bacffa445223891b5fbb1eb12f2c5684b2003f376cf71da5d2aed94"
 
 [[files]]
 file = "mods/vortexutilities-1.0.0.jar"
-hash = "a2c1aa8c292172475076ccd4558d6ac5c6b689cfd774cf77ac7d7de695a6dd6e"
+hash = "695855affa7fc602be89eb6fb6bd4ec96f41d8e14a30d1c2415a41a6616b60df"
 
 [[files]]
 file = "mods/vortexwireless-1.0.0.jar"
