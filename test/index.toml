@@ -51,7 +51,7 @@ hash = "689d533b857badb416a8cb7fd2ce42da7d09376b63e1e2471dd8460672a768d9"
 
 [[files]]
 file = "config/sensible_stackables/config.toml"
-hash = "7dc5084174bd9c15c8662a7aa5573bcf88d82ed68bb25dec601e8d70340268d1"
+hash = "61daa8d0970f2c1ff99995e1e2fa88a567ba3a7a5957869147c30bc179847a4e"
 
 [[files]]
 file = "config/sparsestructures.json5"
@@ -202,6 +202,10 @@ hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
 metafile = true
 
 [[files]]
+file = "mods/en_clans-0.1.0.jar"
+hash = "460ad674b53379ef85416ebed27f3be90db0cc1c401cc77bcdc0f643ca6370d9"
+
+[[files]]
 file = "mods/en_darkutilities-0.1.0.jar"
 hash = "3fa28f888dfc147222233966755a7443a36b8ed72b7adcbb34453b97a1fcb24f"
 
@@ -223,7 +227,7 @@ hash = "eb21a16e2864ce3572f428fc89e6e728f4868bc2d081d6586d83286b85c2c702"
 
 [[files]]
 file = "mods/en_weapons-0.1.0.jar"
-hash = "39d982144f5610b235d12f9fc8cdd0a8b1c678a10de3172b31c5b8e6176f9fbd"
+hash = "57a02f6d78b8cb0afd174d7df76b39747f14e0dfdf04de86f84b65d7fd717cd4"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -396,11 +400,6 @@ hash = "dcfbfa39abeaba554c2c5323f9b9a3ec58dfc386aca2d237f73948abdbdc7125"
 metafile = true
 
 [[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "299ed58980f5c02afbaabcc52d5e573e8b8ab0c2c30fd688d6d7e86e7ac6bf6d"
-metafile = true
-
-[[files]]
 file = "mods/pams-harvestcraft-2-crops.pw.toml"
 hash = "4db7cd1ac4109ca4ba41936d4ae83d22a8f1157a731faeb527f5e78b003d27c0"
 metafile = true
@@ -511,6 +510,11 @@ hash = "6914b2abf0e5cd54a7db3823eb691abf4738eabfe785d522b0a5fbd7fc3645c0"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "0bef7b3dd4758a661d3e6827bd390c12ff8a3ede4a66bb2e01e3c760f02bd509"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
@@ -577,11 +581,11 @@ metafile = true
 
 [[files]]
 file = "mods/vortex-1.0.0.jar"
-hash = "8b9e486e13e0db773c0dca169b08404b405f6c7e22201eb25361fb05c232c5bb"
+hash = "01a78aac055f204f4ada3cff3c834e828eabf30afa501d534c1ea4bdd3536ddc"
 
 [[files]]
 file = "mods/vortexcore-1.0.0.jar"
-hash = "6c3feb8c947ec9489541829edc89f8ada0d25c942f99362efcd18c5774fd276f"
+hash = "a5884ed0891bf6151a54b6c1633d3978a3b70a8372c3a1f650a98adb5263d4ce"
 
 [[files]]
 file = "mods/vortexguard-1.0.0.jar"
@@ -589,7 +593,7 @@ hash = "c1b54f5e8bacffa445223891b5fbb1eb12f2c5684b2003f376cf71da5d2aed94"
 
 [[files]]
 file = "mods/vortexutilities-1.0.0.jar"
-hash = "695855affa7fc602be89eb6fb6bd4ec96f41d8e14a30d1c2415a41a6616b60df"
+hash = "032e73869b988ed883dc64bf26b3c71c011d4b41bd7ab107498ef7a473c8e88b"
 
 [[files]]
 file = "mods/vortexwireless-1.0.0.jar"
