@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/en_clans-0.1.0.jar"
-hash = "460ad674b53379ef85416ebed27f3be90db0cc1c401cc77bcdc0f643ca6370d9"
+hash = "abfa223bd4b841d392531cb4e2a289ef2963f740846c66ee5143b3f045b520b8"
 
 [[files]]
 file = "mods/en_darkutilities-0.1.0.jar"
@@ -211,7 +211,7 @@ hash = "3fa28f888dfc147222233966755a7443a36b8ed72b7adcbb34453b97a1fcb24f"
 
 [[files]]
 file = "mods/en_derio-0.1.0.jar"
-hash = "f6423cc5ccebf683ed702687a4e79f7ef0847ef424ab6912fab117b7729430a1"
+hash = "6e4b2a1a0ebc4bda41818f6e5a6ece3ea7ac6f2dc6baa2dd55f475a990b01e4f"
 
 [[files]]
 file = "mods/en_extrautilities2-0.1.0.jar"
@@ -581,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/vortex-1.0.0.jar"
-hash = "01a78aac055f204f4ada3cff3c834e828eabf30afa501d534c1ea4bdd3536ddc"
+hash = "429ef326fabbbf03029ccd10c4d04c8c870550b14c7f12d97ff3ad02bf5407b2"
 
 [[files]]
 file = "mods/vortexcore-1.0.0.jar"
