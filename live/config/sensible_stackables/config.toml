@@ -1,8 +1,26 @@
 # Don't change this! Version used to track needed updates.
 version = 2
-# percworld: only snowballs change (256); every other item keeps its normal stack size
+# percworld: snowballs stack to 256. Dirt, gravel, the stone types, cobblestone, netherrack and nether brick stack to
+# 32768: the mod goes higher in theory, but its author warns that stacks past about 100000 freeze the game when crafted
+# or taken out of a stonecutter all at once. Every other item keeps its normal stack size.
 items = [
-    [ "minecraft:snowball", 256 ]
+    [ "minecraft:snowball", 256 ],
+    [ "minecraft:dirt", 32768 ],
+    [ "minecraft:gravel", 32768 ],
+    [ "minecraft:stone", 32768 ],
+    [ "minecraft:cobblestone", 32768 ],
+    [ "minecraft:granite", 32768 ],
+    [ "minecraft:diorite", 32768 ],
+    [ "minecraft:andesite", 32768 ],
+    [ "minecraft:deepslate", 32768 ],
+    [ "minecraft:cobbled_deepslate", 32768 ],
+    [ "minecraft:tuff", 32768 ],
+    [ "minecraft:calcite", 32768 ],
+    [ "minecraft:blackstone", 32768 ],
+    [ "minecraft:basalt", 32768 ],
+    [ "minecraft:netherrack", 32768 ],
+    [ "minecraft:nether_bricks", 32768 ],
+    [ "minecraft:nether_brick", 32768 ]
 ]
 splashPotionCooldown = 0
 uncapStackSize = true
