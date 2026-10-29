@@ -51,7 +51,7 @@ hash = "689d533b857badb416a8cb7fd2ce42da7d09376b63e1e2471dd8460672a768d9"
 
 [[files]]
 file = "config/sensible_stackables/config.toml"
-hash = "61daa8d0970f2c1ff99995e1e2fa88a567ba3a7a5957869147c30bc179847a4e"
+hash = "8285ac735842ab9283cdd721009504da11a859df73b8e9f4001353a6e2f71cc1"
 
 [[files]]
 file = "config/sparsestructures.json5"
@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/draconicclassic-0.1.0.jar"
-hash = "95b49ff6fe95fb303a6e8b6934698be1fb06731f6f69db343f8b76a2db3f9561"
+hash = "c20cdadc57d9e088da3ccd22a922e3464e349866e580ac373c9e406ba183f969"
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
@@ -215,7 +215,7 @@ hash = "6e4b2a1a0ebc4bda41818f6e5a6ece3ea7ac6f2dc6baa2dd55f475a990b01e4f"
 
 [[files]]
 file = "mods/en_extrautilities2-0.1.0.jar"
-hash = "51e762cc669d907bfd14d4fb8f37428c1845540ea382b329d87eaa0594e9c1d9"
+hash = "d314d17a088637dec35897b5c732d3f105044c5557237b570fa330240b6793f2"
 
 [[files]]
 file = "mods/en_industrialcraft2-0.1.0.jar"
@@ -223,11 +223,11 @@ hash = "a06344044a7d4a3522a8e84b027a7514b660c13b74dc299661410371da32209e"
 
 [[files]]
 file = "mods/en_tconstruct-0.1.0.jar"
-hash = "eb21a16e2864ce3572f428fc89e6e728f4868bc2d081d6586d83286b85c2c702"
+hash = "48ed0d131296bb7d91c7e547eb0d2fdfa6e239dffca4dae2ae86dbb565ecfd35"
 
 [[files]]
 file = "mods/en_weapons-0.1.0.jar"
-hash = "57a02f6d78b8cb0afd174d7df76b39747f14e0dfdf04de86f84b65d7fd717cd4"
+hash = "9772a4ef2506f59ff5f50c631fd8120eabc7579084dfe587974ff88f4d4239ac"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -581,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/vortex-1.0.0.jar"
-hash = "2eed98c5c8f199bfc0af93f35332dc57c5e6071bc78ea58b2b4dc93c1c2edaa9"
+hash = "55945fe4bb1667b5b08fac1b8e02f6519b5fbfe45449a2e627a80780c741ac58"
 
 [[files]]
 file = "mods/vortexcore-1.0.0.jar"
