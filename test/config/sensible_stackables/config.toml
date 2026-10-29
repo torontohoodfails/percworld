@@ -1,7 +1,8 @@
 # Don't change this! Version used to track needed updates.
 version = 2
 # percworld: snowballs stack to 256. Dirt, gravel, the stone types, cobblestone, netherrack and nether brick stack to
-# 32768: the mod goes higher in theory, but its author warns that stacks past about 100000 freeze the game when crafted
+# 32768, and so do the ground resources (coal, raw and smelted metals, gems, redstone, lapis, quartz, amethyst,
+# netherite) and Draconium dust and ingots: the mod goes higher in theory, but its author warns that stacks past about 100000 freeze the game when crafted
 # or taken out of a stonecutter all at once. Every other item keeps its normal stack size.
 items = [
     [ "minecraft:snowball", 256 ],
@@ -20,7 +21,27 @@ items = [
     [ "minecraft:basalt", 32768 ],
     [ "minecraft:netherrack", 32768 ],
     [ "minecraft:nether_bricks", 32768 ],
-    [ "minecraft:nether_brick", 32768 ]
+    [ "minecraft:nether_brick", 32768 ],
+    [ "minecraft:coal", 32768 ],
+    [ "minecraft:raw_iron", 32768 ],
+    [ "minecraft:raw_copper", 32768 ],
+    [ "minecraft:raw_gold", 32768 ],
+    [ "minecraft:iron_ingot", 32768 ],
+    [ "minecraft:copper_ingot", 32768 ],
+    [ "minecraft:gold_ingot", 32768 ],
+    [ "minecraft:iron_nugget", 32768 ],
+    [ "minecraft:gold_nugget", 32768 ],
+    [ "minecraft:diamond", 32768 ],
+    [ "minecraft:emerald", 32768 ],
+    [ "minecraft:lapis_lazuli", 32768 ],
+    [ "minecraft:redstone", 32768 ],
+    [ "minecraft:quartz", 32768 ],
+    [ "minecraft:amethyst_shard", 32768 ],
+    [ "minecraft:ancient_debris", 32768 ],
+    [ "minecraft:netherite_scrap", 32768 ],
+    [ "minecraft:netherite_ingot", 32768 ],
+    [ "draconicclassic:draconium_dust", 32768 ],
+    [ "draconicclassic:draconium_ingot", 32768 ]
 ]
 splashPotionCooldown = 0
 uncapStackSize = true
