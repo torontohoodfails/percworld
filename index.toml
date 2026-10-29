@@ -51,7 +51,7 @@ hash = "689d533b857badb416a8cb7fd2ce42da7d09376b63e1e2471dd8460672a768d9"
 
 [[files]]
 file = "config/sensible_stackables/config.toml"
-hash = "8285ac735842ab9283cdd721009504da11a859df73b8e9f4001353a6e2f71cc1"
+hash = "aa14bc0c35d6af454a7b39279c8ac25116c3bacb465a70e9f44f27583234a3af"
 
 [[files]]
 file = "config/sparsestructures.json5"
@@ -312,6 +312,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-vehicles.pw.toml"
 hash = "e54cb242884e03c1b2e5971fe010adedbf2e1ae5dc161cf428d82301c6b4b38f"
+metafile = true
+
+[[files]]
+file = "mods/immersiveengineering.pw.toml"
+hash = "91875c996a9958aeea794843fb449915218625f52aaf0234ccd1faffa887e277"
 metafile = true
 
 [[files]]
@@ -581,7 +586,7 @@ metafile = true
 
 [[files]]
 file = "mods/vortex-1.0.0.jar"
-hash = "010a28c63177fb3d5dc33c58b115483f88b2a1d5b60f00f39a1d3b8956e67e92"
+hash = "54d6f41738b30797b0267bc83bd16dc74c62b2bda320c3b57d0cff6a461c005c"
 
 [[files]]
 file = "mods/vortexcore-1.0.0.jar"
