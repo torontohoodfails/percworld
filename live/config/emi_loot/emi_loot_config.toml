@@ -1,0 +1,6 @@
+# percworld: EMI Loot shows only what mobs drop (the mob, then each drop with its chance), as FTB Beyond did.
+parseChestLoot = false
+parseBlockLoot = false
+parseMobLoot = true
+parseGameplayLoot = false
+parseArchaeologyLoot = false

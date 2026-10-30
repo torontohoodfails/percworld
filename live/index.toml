@@ -26,8 +26,16 @@ file = "config/elevatorid-server.toml"
 hash = "172f59545628e9877af045a544a2b443e15126a9aabfd15bdde908d2f78014bc"
 
 [[files]]
+file = "config/emi_loot/emi_loot_config.toml"
+hash = "b7ebe383e69bc70c6b607158bdafa3a136e89d8e78645b7761a71f09f06bc7cd"
+
+[[files]]
 file = "config/entityculling.json"
 hash = "0af000db9ad9ce106d1afd6ec17c49e1da4a93de929a86f07f077ecec5d6a2c2"
+
+[[files]]
+file = "config/fallingtree.json"
+hash = "c19fd0d2893aafd3cd2a5dd7dac9b878943f9ef79eebfc8bf80c817c1dbc09bc"
 
 [[files]]
 file = "config/fml.toml"
@@ -51,7 +59,7 @@ hash = "689d533b857badb416a8cb7fd2ce42da7d09376b63e1e2471dd8460672a768d9"
 
 [[files]]
 file = "config/sensible_stackables/config.toml"
-hash = "aa14bc0c35d6af454a7b39279c8ac25116c3bacb465a70e9f44f27583234a3af"
+hash = "4b5d129f507a86ee04d130059e71a9834c5ea2821016d8d7ffd48113594733d5"
 
 [[files]]
 file = "config/sparsestructures.json5"
@@ -174,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/draconicclassic-0.1.0.jar"
-hash = "c20cdadc57d9e088da3ccd22a922e3464e349866e580ac373c9e406ba183f969"
+hash = "34d3df9d30b7a25833685625413819d0ec2205c975fc60a368382f1e1c1f6e02"
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
@@ -197,13 +205,18 @@ hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "519f011d36736129795025f19301ad2d6141f422857d6154a3df2e2019f416f3"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
 metafile = true
 
 [[files]]
 file = "mods/en_clans-0.1.0.jar"
-hash = "abfa223bd4b841d392531cb4e2a289ef2963f740846c66ee5143b3f045b520b8"
+hash = "d0598b0d57448376184682abf4e9d8484cd201a6e1fd09df33f704365145bd20"
 
 [[files]]
 file = "mods/en_darkutilities-0.1.0.jar"
@@ -227,7 +240,7 @@ hash = "48ed0d131296bb7d91c7e547eb0d2fdfa6e239dffca4dae2ae86dbb565ecfd35"
 
 [[files]]
 file = "mods/en_weapons-0.1.0.jar"
-hash = "9772a4ef2506f59ff5f50c631fd8120eabc7579084dfe587974ff88f4d4239ac"
+hash = "b1e9c37579fe539a44012d11fb6a532c0ac153619b422896c838302e38bd0d8f"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -586,7 +599,7 @@ metafile = true
 
 [[files]]
 file = "mods/vortex-1.0.0.jar"
-hash = "54d6f41738b30797b0267bc83bd16dc74c62b2bda320c3b57d0cff6a461c005c"
+hash = "f8f92c187ba41c6eb8341fd1b3cccbde862387c8ee5914541b5608c01933e02e"
 
 [[files]]
 file = "mods/vortexcore-1.0.0.jar"
