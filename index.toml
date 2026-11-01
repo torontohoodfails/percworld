@@ -22,6 +22,14 @@ hash = "e94d9beedba3f296497fa188e96a89b7d6d0f55c05452fc1d0f1126e375d16f6"
 preserve = true
 
 [[files]]
+file = "config/draconicclassic-common.toml"
+hash = "57752e23232d176c5c867d14e527d9abb49efc435504a5730ee86719a45ddd2f"
+
+[[files]]
+file = "config/draconicclassic-startup.toml"
+hash = "c73c0c541f0b48d30b861fceb552885d1909c1bfb6c222aee5dffdd555ea5c33"
+
+[[files]]
 file = "config/elevatorid-server.toml"
 hash = "172f59545628e9877af045a544a2b443e15126a9aabfd15bdde908d2f78014bc"
 
@@ -182,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/draconicclassic-0.1.0.jar"
-hash = "f9daa36a3ef92ec85b8d2b63ccbe32df201f93a880c54dab6920e80c69710c12"
+hash = "e95b9dcda4ca227bd8cb8e8765133b160369c882e027397fa4277c78b4ae509c"
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
@@ -599,11 +607,11 @@ metafile = true
 
 [[files]]
 file = "mods/vortex-1.0.0.jar"
-hash = "380f49a4809f64f6493c8e59e6af9f85cde355c557f29539bc504fd6d29ddbce"
+hash = "e7b8bb2c26904890150ccc17a202f6489ca20138cfac28712ef31ea340551852"
 
 [[files]]
 file = "mods/vortexcore-1.0.0.jar"
-hash = "a5884ed0891bf6151a54b6c1633d3978a3b70a8372c3a1f650a98adb5263d4ce"
+hash = "f58a5b4f48f85e76bf7a65390250ad552c597d2367dc30106959bf60837d0dd2"
 
 [[files]]
 file = "mods/vortexguard-1.0.0.jar"

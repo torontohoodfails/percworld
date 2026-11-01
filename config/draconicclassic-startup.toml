@@ -1,0 +1,33 @@
+[recipes]
+	#Use the harder recipe set for everything that has one.
+	hardMode = false
+	#Replace the vanilla End Crystal recipe with glass panes, a nether star and a ghast tear.
+	expensiveDragonRitual = true
+	#Add shapeless recipes that clear stored data from energy crystals and crafting injectors.
+	clearDataRecipes = false
+
+[world]
+	#Generate draconium ore in the overworld.
+	oreOverworld = true
+	#Generate draconium ore in the nether.
+	oreNether = true
+	#Generate draconium ore in the end.
+	oreEnd = true
+	#Generate Ender Comets in the end.
+	generateEnderComets = true
+	#Ender Comets have a 1 in {this number} chance to spawn in each chunk.
+	# Default: 10000
+	# Range: 500 ~ 1000000
+	cometRarity = 10000
+	#Generate Chaos Islands in the end.
+	generateChaosIslands = true
+	#Chaos islands only spawn the guardian and its crystals, no terrain.
+	chaosIslandVoidMode = false
+	#Distance between Chaos Islands (they sit on multiples of this value).
+	# Default: 10000
+	# Range: 500 ~ 1000000
+	chaosIslandSeparation = 50000
+	#Vertical offset applied to Chaos Islands.
+	# Default: 0
+	# Range: -50 ~ 150
+	chaosIslandYOffset = 0

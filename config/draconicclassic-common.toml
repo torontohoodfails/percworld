@@ -1,0 +1,514 @@
+[drops]
+	#Draconium Dust dropped by the Ender Dragon (and Chaos Guardian) is this number +/- 10%.
+	# Default: 1
+	# Range: 0 ~ 1000
+	dragonDustLootModifier = 1
+	#Spawn a dragon egg every time the dragon is killed, not just the first time.
+	dragonEggSpawnOverride = true
+	#The Ender Dragon and Chaos Guardian drop a Dragon Heart on death.
+	dragonHeartDrop = true
+
+[fusion]
+	#How far (in blocks) the fusion core looks for injectors along each axis.
+	# Default: 16
+	# Range: 2 ~ 64
+	injectorRange = 16
+	#Injectors charge at most energyPerIngredient / (base - tier * perTier) FE per tick.
+	#With unlimited power that is 300 / 220 / 140 / 60 ticks for basic / wyvern / draconic / chaotic.
+	# Default: 300
+	# Range: 1 ~ 100000
+	chargeDivisorBase = 300
+	# Default: 80
+	# Range: 0 ~ 100000
+	chargeDivisorPerTier = 80
+	#Extra craft progress per tick by the lowest injector tier used (basic, wyvern, draconic, chaotic).
+	#Progress runs 1000 -> 2000 at (2 + boost) per tick.
+	craftSpeedBoost = [0, 1, 3, 5]
+	#Multiplier applied to the energy cost of every fusion recipe.
+	# Default: 1.0
+	# Range: 0.0 ~ 1000.0
+	energyMultiplier = 1.0
+	#New crafting injectors start in single-item mode.
+	injectorSingleItemDefault = false
+
+	[machines.generator]
+		# Default: 100000
+		# Range: > 1
+		capacity = 100000
+		#Maximum FE pushed to neighbours per tick.
+		# Default: 1000
+		# Range: > 1
+		output = 1000
+		#Fuel burn-ticks consumed per game tick.
+		# Default: 6
+		# Range: 1 ~ 1000
+		burnSpeed = 6
+		#FE produced per fuel burn-tick (6 * 14 = 84 FE/t).
+		# Default: 14
+		# Range: 1 ~ 100000
+		energyPerBurnTick = 14
+
+	[machines.energy_infuser]
+		# Default: 10000000
+		# Range: > 1
+		capacity = 10000000
+		#Receive rate and item charge rate per tick.
+		# Default: 10000000
+		# Range: > 1
+		transfer = 10000000
+
+#Tools, weapons and flux capacitors
+[tools]
+	# Default: 4000000
+	# Range: > 1
+	wyvernBaseCapacity = 4000000
+	# Default: 16000000
+	# Range: > 1
+	draconicBaseCapacity = 16000000
+	#Staff of Power capacity = draconic capacity * this
+	# Default: 3
+	# Range: 1 ~ 100
+	staffCapacityMultiplier = 3
+	# Default: 512000
+	# Range: > 1
+	wyvernMaxReceive = 512000
+	# Default: 8000000
+	# Range: > 1
+	draconicMaxReceive = 8000000
+	# Default: 16000000
+	# Range: > 1
+	staffMaxReceive = 16000000
+	#FE used per block broken, entity hit, block tilled/flattened.
+	# Default: 1024
+	# Range: > 0
+	energyPerOperation = 1024
+	#Dig AOE radius before upgrades
+	# Default: 0
+	# Range: 0 ~ 10
+	wyvernBaseMineAOE = 0
+	# Default: 1
+	# Range: 0 ~ 10
+	draconicBaseMineAOE = 1
+	#Maximum logs felled at once
+	# Default: 512
+	# Range: 1 ~ 100000
+	wyvernAxeTreeLimit = 512
+	# Default: 8192
+	# Range: 1 ~ 100000
+	draconicAxeTreeLimit = 8192
+	#Attack AOE radius by attack AOE upgrade level 0-4
+	wyvernSwordAttackAOE = [0.0, 1.0, 2.0, 5.0, 10.0]
+	draconicSwordAttackAOE = [1.0, 2.0, 4.0, 6.0, 12.0]
+	staffAttackAOE = [2.0, 3.0, 5.0, 8.0, 15.0]
+	#Drop AOE-mined items loose instead of collecting them into a loot core.
+	disableLootCores = false
+
+	[tools.wyvern_pickaxe]
+		# Default: 12.0
+		# Range: 0.0 ~ 10000.0
+		miningSpeed = 12.0
+		# Default: 12.0
+		# Range: 0.0 ~ 100000.0
+		attackDamage = 12.0
+		# Default: -3.0
+		# Range: -4.0 ~ 10.0
+		attackSpeed = -3.0
+
+	[tools.wyvern_shovel]
+		# Default: 12.0
+		# Range: 0.0 ~ 10000.0
+		miningSpeed = 12.0
+		# Default: 12.0
+		# Range: 0.0 ~ 100000.0
+		attackDamage = 12.0
+		# Default: -3.0
+		# Range: -4.0 ~ 10.0
+		attackSpeed = -3.0
+
+	[tools.wyvern_axe]
+		# Default: 12.0
+		# Range: 0.0 ~ 10000.0
+		miningSpeed = 12.0
+		# Default: 25.0
+		# Range: 0.0 ~ 100000.0
+		attackDamage = 25.0
+		# Default: -3.3
+		# Range: -4.0 ~ 10.0
+		attackSpeed = -3.3
+
+	[tools.wyvern_sword]
+		# Default: 25.0
+		# Range: 0.0 ~ 10000.0
+		miningSpeed = 25.0
+		# Default: 15.0
+		# Range: 0.0 ~ 100000.0
+		attackDamage = 15.0
+		# Default: -2.2
+		# Range: -4.0 ~ 10.0
+		attackSpeed = -2.2
+
+	[tools.wyvern_bow]
+		# Default: 1.0
+		# Range: 0.0 ~ 10000.0
+		miningSpeed = 1.0
+		# Default: 1.0
+		# Range: 0.0 ~ 100000.0
+		attackDamage = 1.0
+		# Default: 0.0
+		# Range: -4.0 ~ 10.0
+		attackSpeed = 0.0
+
+	[tools.draconic_pickaxe]
+		# Default: 18.0
+		# Range: 0.0 ~ 10000.0
+		miningSpeed = 18.0
+		# Default: 20.0
+		# Range: 0.0 ~ 100000.0
+		attackDamage = 20.0
+		# Default: -2.9
+		# Range: -4.0 ~ 10.0
+		attackSpeed = -2.9
+
+	[tools.draconic_shovel]
+		# Default: 18.0
+		# Range: 0.0 ~ 10000.0
+		miningSpeed = 18.0
+		# Default: 20.0
+		# Range: 0.0 ~ 100000.0
+		attackDamage = 20.0
+		# Default: -2.9
+		# Range: -4.0 ~ 10.0
+		attackSpeed = -2.9
+
+	[tools.draconic_axe]
+		# Default: 18.0
+		# Range: 0.0 ~ 10000.0
+		miningSpeed = 18.0
+		# Default: 45.0
+		# Range: 0.0 ~ 100000.0
+		attackDamage = 45.0
+		# Default: -3.2
+		# Range: -4.0 ~ 10.0
+		attackSpeed = -3.2
+
+	[tools.draconic_sword]
+		# Default: 25.0
+		# Range: 0.0 ~ 10000.0
+		miningSpeed = 25.0
+		# Default: 35.0
+		# Range: 0.0 ~ 100000.0
+		attackDamage = 35.0
+		# Default: -2.0
+		# Range: -4.0 ~ 10.0
+		attackSpeed = -2.0
+
+	[tools.draconic_hoe]
+		# Default: 1.0
+		# Range: 0.0 ~ 10000.0
+		miningSpeed = 1.0
+		# Default: 10.0
+		# Range: 0.0 ~ 100000.0
+		attackDamage = 10.0
+		# Default: 0.0
+		# Range: -4.0 ~ 10.0
+		attackSpeed = 0.0
+
+	[tools.draconic_bow]
+		# Default: 1.0
+		# Range: 0.0 ~ 10000.0
+		miningSpeed = 1.0
+		# Default: 1.0
+		# Range: 0.0 ~ 100000.0
+		attackDamage = 1.0
+		# Default: 0.0
+		# Range: -4.0 ~ 10.0
+		attackSpeed = 0.0
+
+	[tools.draconic_staff_of_power]
+		# Default: 60.0
+		# Range: 0.0 ~ 10000.0
+		miningSpeed = 60.0
+		# Default: 60.0
+		# Range: 0.0 ~ 100000.0
+		attackDamage = 60.0
+		# Default: -3.0
+		# Range: -4.0 ~ 10.0
+		attackSpeed = -3.0
+
+	[tools.bow]
+		# Default: 2
+		# Range: 0 ~ 1000
+		baseDamage = 2
+		# Default: 2
+		# Range: 0 ~ 1000
+		damagePerUpgrade = 2
+		# Default: 1
+		# Range: 0 ~ 1000
+		damagePerTier = 1
+		#Arrow speed modifier in %
+		# Default: 100
+		# Range: 0 ~ 10000
+		baseSpeed = 100
+		# Default: 100
+		# Range: 0 ~ 10000
+		speedPerUpgrade = 100
+		# Default: 100
+		# Range: 0 ~ 10000
+		speedPerTier = 100
+		# Default: 4
+		# Range: 0 ~ 100
+		maxExplosionPower = 4
+		# Default: 300
+		# Range: 0 ~ 1000
+		wyvernMaxZoom = 300
+		# Default: 600
+		# Range: 0 ~ 1000
+		draconicMaxZoom = 600
+		#Base FE per shot before damage/speed/explosion multipliers
+		# Default: 80
+		# Range: > 0
+		shotBaseCost = 80
+		#Explosive arrows break blocks.
+		bowBlockDamage = true
+
+	[tools.flux_capacitor]
+		#Each RF capacity upgrade adds half of the base.
+		# Default: 64000000
+		# Range: > 1
+		wyvernBaseCapacity = 64000000
+		# Default: 256000000
+		# Range: > 1
+		draconicBaseCapacity = 256000000
+		# Default: 8000000
+		# Range: > 1
+		wyvernTransfer = 8000000
+		# Default: 64000000
+		# Range: > 1
+		draconicTransfer = 64000000
+
+#Wyvern and Draconic armor
+[armor]
+	#Total shield points of a full Wyvern set (split 15/40/30/15 %), multiplied by (shield capacity level + 1).
+	# Default: 256
+	# Range: > 0
+	wyvernBaseShieldCapacity = 256
+	# Default: 512
+	# Range: > 0
+	draconicBaseShieldCapacity = 512
+	#FE to restore one shield point
+	# Default: 1000
+	# Range: > 0
+	wyvernShieldRechargeCost = 1000
+	# Default: 1000
+	# Range: > 0
+	draconicShieldRechargeCost = 1000
+	#Entropy recovery per piece, multiplied by (shield recovery level + 1); entropy falls by the mean / 100 each tick.
+	# Default: 2.0
+	# Range: 0.0 ~ 10000.0
+	wyvernShieldRecovery = 2.0
+	# Default: 4.0
+	# Range: 0.0 ~ 10000.0
+	draconicShieldRecovery = 4.0
+	# Default: 512000
+	# Range: > 1
+	wyvernMaxReceive = 512000
+	# Default: 1000000
+	# Range: > 1
+	draconicMaxReceive = 1000000
+	#Energy drained from Draconic armor to cancel a death
+	# Default: 10000000
+	# Range: > 0
+	lastStandEnergy = 10000000
+	#A death is cancelled (health set to 10) while the shield has more points than this
+	# Default: 500.0
+	# Range: 0.0 ~ 1.0E9
+	shieldSavePoints = 500.0
+	enableFlight = true
+	# Default: 1.0
+	# Range: 0.0 ~ 100.0
+	flightSpeedModifier = 1.0
+	#Cap for the chestplate flight speed slider in %; -1 = no cap (max 600%)
+	# Default: -1
+	# Range: -1 ~ 1200
+	flightSpeedLimit = -1
+	#FE to remove one harmful effect
+	# Default: 5000
+	# Range: > 0
+	helmetCleanseCost = 5000
+	# Default: 500
+	# Range: > 0
+	helmetAutoFeedCost = 500
+
+#Energy Storage Core
+[energy_core]
+	#Capacity of tiers 1-8 in FE (as text so values above 2^31 work)
+	capacity = ["45500000", "273000000", "1640000000", "9880000000", "59300000000", "356000000000", "2140000000000", "9223372036854775807"]
+	#How far from the core stabilizers may be
+	# Default: 16
+	# Range: 2 ~ 64
+	stabilizerRange = 16
+	#Ticks between automatic structure checks
+	# Default: 500
+	# Range: 20 ~ 100000
+	validateInterval = 500
+	#Pylons look for cores in a cube of this half-size, offset this far up (or down)
+	# Default: 18
+	# Range: 1 ~ 64
+	pylonRange = 18
+
+#Energy crystals; each list is basic, wyvern, draconic
+[energy_crystals]
+	#Internal buffer (also the max transfer per link per tick)
+	capacity = [4000000, 16000000, 64000000]
+	#Link range in blocks
+	linkRange = [32, 64, 127]
+	#Max crystal links on a relay
+	relayLinks = [8, 16, 32]
+	#Max crystal links on an I/O crystal
+	ioLinks = [2, 3, 4]
+	#Max crystal links on a wireless crystal
+	wirelessLinks = [4, 8, 16]
+	#Max blocks a wireless crystal can power
+	wirelessReceivers = [16, 32, 64]
+	#FE per tick per wireless receiver
+	wirelessTransfer = [32000, 128000, 512000]
+
+#Draconic Reactor
+[reactor]
+	#Energy output multiplier
+	# Default: 1.0
+	# Range: 0.0 ~ 1000.0
+	outputMultiplier = 1.0
+	#Fuel usage multiplier
+	# Default: 1.0
+	# Range: 0.0 ~ 1000.0
+	fuelUsageMultiplier = 1.0
+	#Scale of the large reactor explosion radius (50-350 blocks by fuel)
+	# Default: 1.0
+	# Range: 0.01 ~ 10.0
+	explosionScale = 1.0
+	#Replace the huge explosion with a small one (power 8 plus some lava)
+	disableLargeReactorBoom = false
+	#Most fuel a core can hold (1296 = one awakened draconium block); 1.12 allowed 15 extra
+	# Default: 10383
+	# Range: 144 ~ 1000000
+	maxFuel = 10383
+	#Blocks removed per tick when the explosion detonates (1.12 removed them all in one tick)
+	# Default: 20000
+	# Range: 100 ~ 10000000
+	explosionBlocksPerTick = 20000
+	#Minimum ticks between a meltdown starting and the explosion
+	# Default: 1200
+	# Range: 0 ~ 1000000
+	meltdownMinTicks = 1200
+	#Random extra ticks added to the meltdown delay
+	# Default: 2400
+	# Range: 1 ~ 1000000
+	meltdownRandomTicks = 2400
+	#Ticks counted down after the explosion is calculated
+	# Default: 1200
+	# Range: 0 ~ 1000000
+	finalCountdownTicks = 1200
+	#Max shield = fuel x this x 100, max saturation = fuel x this x 1000
+	# Default: 96.45061728395062
+	# Range: 1.0E-4 ~ 1000000.0
+	fuelEnergyFactor = 96.45061728395062
+	#Temperature rise offset (where the temperature settles at full saturation)
+	# Default: 444.7
+	# Range: -1000000.0 ~ 1000000.0
+	tempOffset = 444.7
+	#Larger values drain the containment field slower
+	# Default: 10.923556
+	# Range: 1.0E-4 ~ 1000000.0
+	fieldDrainDivisor = 10.923556
+	#Base fuel conversion per tick
+	# Default: 0.001
+	# Range: 0.0 ~ 1.0
+	baseFuelUsage = 0.001
+
+#Dislocators and magnets
+[items]
+	# Default: 8
+	# Range: 1 ~ 64
+	magnetRangeBasic = 8
+	# Default: 32
+	# Range: 1 ~ 128
+	magnetRangeAdvanced = 32
+	#Advanced Dislocator teleports per ender pearl
+	# Default: 1
+	# Range: 1 ~ 1000
+	dislocatorUsesPerPearl = 1
+	#Item ids magnets will not pull
+	itemDislocatorBlacklist = ["appliedenergistics2:crystal_seed", "botania:livingrock", "botania:manatablet"]
+
+#Phase 6 machines
+[machines2]
+	#Grinder energy per point of mob health
+	# Default: 80
+	# Range: 0 ~ 1000000
+	grinderEnergyPerHeart = 80
+	# Default: 500000
+	# Range: > 1
+	grinderCapacity = 500000
+	# Default: 32000
+	# Range: > 1
+	grinderReceive = 32000
+	#Entity ids the grinder will not attack
+	grinderBlackList = ["evilcraft:vengeance_spirit"]
+	#1 in N chance (divided by reaper level) for a mob soul
+	# Default: 1000
+	# Range: 1 ~ 1000000
+	soulDropChance = 1000
+	#Same for animals
+	# Default: 800
+	# Range: 1 ~ 1000000
+	passiveSoulDropChance = 800
+	allowBossSouls = false
+	#Entity ids that drop no souls and can not be spawned by the stabilized spawner (or the only ones that can, as a whitelist)
+	spawnerList = []
+	spawnerListWhiteList = false
+	#Stabilized spawner min,max delay per tier: basic, wyvern, draconic, chaotic
+	spawnerDelays = ["200", "800", "100", "400", "50", "200", "25", "100"]
+	# Default: 1.0
+	# Range: 0.0 ~ 100.0
+	dissenchanterCostMultiplier = 1.0
+	# Default: 1.0
+	# Range: 0.0 ~ 100.0
+	entityDetectorPowerModifier = 1.0
+	# Default: 1000000
+	# Range: > 1
+	draconiumChestCapacity = 1000000
+	# Default: 32000
+	# Range: > 1
+	draconiumChestReceive = 32000
+	#Items that can not go in a Draconium Chest
+	chestBlackList = []
+	#Items the Draconium Chest will not double
+	oreDoublingBlacklist = []
+	# Default: 4000000
+	# Range: > 1
+	celestialCapacity = 4000000
+	# Default: 256000
+	# Range: > 0
+	celestialRainCost = 256000
+	# Default: 384000
+	# Range: > 0
+	celestialStormCost = 384000
+	#FE per world tick skipped
+	# Default: 320
+	# Range: > 0
+	celestialTimeCost = 320
+
+#Chaos Guardian
+[guardian]
+	# Default: 2000
+	# Range: 1 ~ 1000000
+	chaosGuardianHealth = 2000
+	#Guardian attacks can hurt creative-mode players
+	guardianCanKillCreative = false
+	#Keep the chunks around the guardian loaded while players are within 500 blocks
+	chaosGuardianLoading = true
+	#Stop the guardian reviving its crystals
+	disableGuardianCrystalRespawn = false
+	#Breaking the Chaos Crystal does not destroy the island
+	disableChaosIslandExplosion = false
