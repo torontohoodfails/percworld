@@ -248,7 +248,7 @@ hash = "48ed0d131296bb7d91c7e547eb0d2fdfa6e239dffca4dae2ae86dbb565ecfd35"
 
 [[files]]
 file = "mods/en_weapons-0.1.0.jar"
-hash = "5977dc8507f21631ae1b010f46873ad9da4df68af3123b0063aa9d78c13c82ee"
+hash = "0ec874c8d3aee2a8ef36a280291e2fb5e1e7e3ce35e5b4f649e2fc1e81bac40b"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
