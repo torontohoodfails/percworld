@@ -248,7 +248,7 @@ hash = "48ed0d131296bb7d91c7e547eb0d2fdfa6e239dffca4dae2ae86dbb565ecfd35"
 
 [[files]]
 file = "mods/en_weapons-0.1.0.jar"
-hash = "f418ca4bd7749fc8d9745e70fac213cbc06fb53f3c288a2210a2c45ecb9913ae"
+hash = "5977dc8507f21631ae1b010f46873ad9da4df68af3123b0063aa9d78c13c82ee"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/vortex-1.0.0.jar"
-hash = "e7b8bb2c26904890150ccc17a202f6489ca20138cfac28712ef31ea340551852"
+hash = "356330fad206d09cd56fa0b3e4f5cdcfa53bc48a5a318018d6dfaba8faf05d06"
 
 [[files]]
 file = "mods/vortexcore-1.0.0.jar"
