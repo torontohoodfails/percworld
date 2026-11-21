@@ -1,0 +1,13 @@
+name = "Client Recipe Fix (JEI / REI)"
+filename = "client-recipe-fix-1.2.1+mc21.2-21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zpdSKKul/versions/fJZgpGXm/client-recipe-fix-1.2.1%2Bmc21.2-21.11.jar"
+hash-format = "sha512"
+hash = "69bea26c2bdb8a30be3ee4abb37a07b51a313bb7b2625665e022947e434a5b7ccac13085f60d1d5687e9ff33c181a17aaafd2dec29b89cc4dc0d03142c804782"
+
+[update]
+[update.modrinth]
+mod-id = "zpdSKKul"
+version = "fJZgpGXm"

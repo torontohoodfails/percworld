@@ -1,0 +1,121 @@
+{
+    "ModSettings": {
+        "first_run": false,
+        "enable_profiles": false,
+        "highlight_foused_items": false,
+        "highlight_clicking_slot": false
+    },
+    "GuiSettings": {
+        "enable_profiles_ui": false,
+        "show_continuous_crafting_checkbox": false,
+        "show_button_tooltips": false,
+        "enable_inventory_editor_button": false
+    },
+    "AutoRefillSettings": {
+        "auto_refill_enable_indicator_icons": false,
+        "auto_refill_enable_horbar_indicator_icons": false,
+        "autorefill_blacklist": "minecraft:totem_of_undying"
+    },
+    "Hotkeys": {
+        "sort_inventory": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "open_config_menu": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "reload_custom_configs": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "move_all_items": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "throw_all_items": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "open_gui_editor": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "apply_profile": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "next_profile": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "prev_profile": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "save_as_profile": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_1": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_2": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_3": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_4": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_5": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_6": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_7": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_8": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_9": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_10": {
+            "main": {
+                "keys": ""
+            }
+        }
+    }
+}

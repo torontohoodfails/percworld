@@ -1,0 +1,693 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "config/appleskin.json5"
+hash = "65edc28ca2bf6bd3e3684ae545fb74bcc0ec935a40d6ac60cb68c00c152e34fb"
+
+[[files]]
+file = "config/badoptimizations.txt"
+hash = "cae5ba66971b2f61e0b523c5aeb8b8d4fa806f0bea8a1709860e4fea94426ac9"
+
+[[files]]
+file = "config/client_recipe_fix.json"
+hash = "b183a3a8a34951c52d72118aad365ad5efc7de7fb4f75812d419900961e510a7"
+
+[[files]]
+file = "config/dynamic_fps.json"
+hash = "f773c03c1cce5797e4d4698939ba8a06f421101a0403b8e018c3f3d86e752a45"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "7c617805e9f4fbece05a7b500905b687e6dbd6d715fe8df996f35e321d2afa4d"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "fddb9f45485b7ae24191e3d94aa6e94a31016a8d4938d970d7f9877c79235732"
+
+[[files]]
+file = "config/fzzy_config/keybinds.toml"
+hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
+
+[[files]]
+file = "config/held-item-info.json"
+hash = "d3adbaca40f3bf3353b98ee95f78d6631354b6841d112492b46ff36922980f65"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "9a1ae7577440d36732b4d34885195b37423a3e8b906ff8602220bc0447969d15"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "fa6b555d7332f468a745f67b63f1452da753a2b2091e78cf58595566f30b32a5"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json.before-claude"
+hash = "a44027e5b5bf7106a7657a84978cbdb46b0d55ac9db0cf77636d4670c4ebfdc3"
+
+[[files]]
+file = "config/jei/blacklist.json"
+hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
+
+[[files]]
+file = "config/jei/client/default/jei-client.ini"
+hash = "893a37d777eeba8a8ec7f38f9fba92c826b54dc920a7a2c85575b4347f9e8ddf"
+
+[[files]]
+file = "config/jei/client/default/jei-colors.ini"
+hash = "1372b094bf8f1d444f04cf4da7f9dc05c445d7ab5b3f73ecd7cfbef79ccad1d7"
+
+[[files]]
+file = "config/jei/client/default/jei-debug.ini"
+hash = "6fbae6db21c604fa008d2e4a696789c1fd2fccdbc741194c8fdfb3f1cd8bdc05"
+
+[[files]]
+file = "config/jei/client/default/jei-mod-id-format.ini"
+hash = "e64349cae34367965848d7fb390dcd6a52d23c012c4711005a70084d958cee67"
+
+[[files]]
+file = "config/jei/client/ingredient-list-mod-sort-order.ini"
+hash = "005314833e9f95a1c08b127a4df539bcd0357e9e67ddebb86f1344c168383282"
+
+[[files]]
+file = "config/jei/client/ingredient-list-type-sort-order.ini"
+hash = "43a1184ff93d9f20a87817badd43048ee9ec271de5124eebae97f814f01cf1bb"
+
+[[files]]
+file = "config/jei/client/recipe-category-sort-order.ini"
+hash = "6a9db8750993886331bfd70f28693bc18373f6c130b5063534252fb07e5ff3cb"
+
+[[files]]
+file = "config/litematica.json"
+hash = "4f422a4884c041de46afade3d58bd1e398260c992d0e61ab3d4c4a2833d0f7e0"
+
+[[files]]
+file = "config/litematica/litematica_Chest+Treasure Room.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/litematica/litematica_Chest+Treasure Room_dim_minecraft_overworld.json"
+hash = "ec00bb0f8bacb5e2865a367fc601752467a34d07dcb8f0ff4cc13a496b03f01b"
+
+[[files]]
+file = "config/litematica/litematica_Colosseum.json"
+hash = "284010e7eb70a5e384af14eef2a657d3e4b95dd651bb2b397db5776b07fe159c"
+
+[[files]]
+file = "config/litematica/litematica_Colosseum_dim_minecraft_overworld.json"
+hash = "7055297e449e2ce5733ed922101e060b4d82922079cbc3d564b0fb55474a1706"
+
+[[files]]
+file = "config/litematica/litematica_GS.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/litematica/litematica_GS_dim_minecraft_overworld.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_GS_dim_minecraft_the_nether.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_Parkour Test.json"
+hash = "c5084e511824ed9f2f38764243b970bd4c7d1047c5fa450b4f4e1c6a2cf9622e"
+
+[[files]]
+file = "config/litematica/litematica_Parkour Test_dim_minecraft_overworld.json"
+hash = "6ec469f2fcb6a8c57a1db9f8ccfe65309d4a6bbdec6631448f9bd2e1b598f27a"
+
+[[files]]
+file = "config/litematica/litematica_THSchutt Colosseum(11)+.json"
+hash = "5e15487fa768aca8f49b1d74cca5a6e4b8c631c03c5d01b985cbc563e1ebdec7"
+
+[[files]]
+file = "config/litematica/litematica_THSchutt Colosseum(11)+_dim_minecraft_overworld.json"
+hash = "ab4bd66eb9fd9ce7df40213117a1ebec9d9ea4f7946a4aac1bf4622e6c196ad8"
+
+[[files]]
+file = "config/litematica/litematica_Trydar's Village Colosseum Tutor.json"
+hash = "bc4385394aef16f20d2970ad4e319e648201680c2aa46f9bff3e24c2b53d8d04"
+
+[[files]]
+file = "config/litematica/litematica_Trydar's Village Colosseum Tutor_dim_minecraft_overworld.json"
+hash = "d8a0190b589ec7d524e0fec3bc4bd399d1067afa863554b3248c19b271b248e0"
+
+[[files]]
+file = "config/litematica/litematica_blockmania.com.json"
+hash = "284010e7eb70a5e384af14eef2a657d3e4b95dd651bb2b397db5776b07fe159c"
+
+[[files]]
+file = "config/litematica/litematica_blockmania.com_dim_minecraft_hub_spawn_preview.json"
+hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
+
+[[files]]
+file = "config/litematica/litematica_blockmania.com_dim_minecraft_overworld.json"
+hash = "4946400284909a0630960237cc7f1e86ec59000946932267038babf7ec293112"
+
+[[files]]
+file = "config/litematica/litematica_groyper.world.json"
+hash = "284010e7eb70a5e384af14eef2a657d3e4b95dd651bb2b397db5776b07fe159c"
+
+[[files]]
+file = "config/litematica/litematica_groyper.world_dim_minecraft_overworld.json"
+hash = "671e65ca8ef95302659f820be0e011ffeda7b8d5ab79fcb28855f4d2148099aa"
+
+[[files]]
+file = "config/litematica/litematica_groyper.world_dim_minecraft_superiorworld.json"
+hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
+
+[[files]]
+file = "config/litematica/litematica_groyper.world_dim_minecraft_the_end.json"
+hash = "cc362c6c8e0c529f60bf4f9932b28852f2f92791367be0444a66e33cfd976b79"
+
+[[files]]
+file = "config/litematica/litematica_groyper.world_dim_minecraft_the_nether.json"
+hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
+
+[[files]]
+file = "config/litematica/litematica_groyper.world_dim_minecraft_world.json"
+hash = "da08d0fb8b3f77a983a57a8b4ea1de1512b1655e6990abc270b9fa892b79de11"
+
+[[files]]
+file = "config/litematica/litematica_groypersmp.aternos.me.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/litematica/litematica_groypersmp.aternos.me_dim_aternos_lobby.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_mcpvp.club.json"
+hash = "284010e7eb70a5e384af14eef2a657d3e4b95dd651bb2b397db5776b07fe159c"
+
+[[files]]
+file = "config/litematica/litematica_mcpvp.club_dim_minecraft_overworld.json"
+hash = "84d2deb3b712fc809a06d8645a43796d99abd0bfdff333cb784578c4f9f688ac"
+
+[[files]]
+file = "config/litematica/litematica_play.civ.plus.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/litematica/litematica_play.civ.plus_dim_minecraft_overworld.json"
+hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
+
+[[files]]
+file = "config/litematica/litematica_play.civ.plus_dim_minecraft_the_nether.json"
+hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
+
+[[files]]
+file = "config/litematica/litematica_play.cubecraft.net.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/litematica/litematica_play.cubecraft.net_dim_minecraft_overworld.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest101.json"
+hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest102.json"
+hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest103.json"
+hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest104.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest105.json"
+hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest106.json"
+hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest107.json"
+hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest108.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest109.json"
+hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest110.json"
+hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest111.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest112.json"
+hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest113.json"
+hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest114.json"
+hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest115.json"
+hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest116.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest117.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest118.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest119.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest120.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest121.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest122.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest123.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest124.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest125.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest126.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest127.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_overworld.json"
+hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+
+[[files]]
+file = "config/malilib.json"
+hash = "ee8bd3e9335c6e092dc81a231c334575d1841e932481a05c77f969badcc6791a"
+
+[[files]]
+file = "config/mezz_config/client/default/settings.ini"
+hash = "1ea4410cacf1baa6ee372daf59d4c5989ad944c0eaf26f043d702f13bad204b1"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "b7b9cdc1e99bdfd86052e373dc3e0ae87c73760816454b801b09d0cfd7b79604"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "b5877e8a4609451bdd8950f0d1d301e87e1fa982c20aa1439f0ff40d3a335f73"
+
+[[files]]
+file = "config/openintel.json"
+hash = "1a3196a35a16c3728fa45a901fec352e1b4118f05418e63f269f930e97beb301"
+
+[[files]]
+file = "config/particle_core_config.toml"
+hash = "9f78cd6740c669aceea023504efd2e600168af4bb41c2f0b12caa9988384b609"
+
+[[files]]
+file = "config/particle_core_disabled_optimizations_v2.json"
+hash = "3d731115173b34dd0fe9de6f52fa14dc271c848495a52f66c0016e24150f59d6"
+
+[[files]]
+file = "config/scrolltweaks.json"
+hash = "992b23cb7d358665abd4a8b1a4ba883dc2bc67df44a69b6752785011c156fd48"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "ba1593e22bff294e47d6743b2b46eed83878dba7cb621e2f65906103edbad7b2"
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "edc4b8a2e4aa7bac58270e89b4c5e54cb35c054f9cba6439951e4c89e66b915e"
+
+[[files]]
+file = "config/threadtweak.json"
+hash = "7eb2c9832f1adc79eb19fe0c0262d9cb7ed551cc59f79d4bdcf9373c3194c2c5"
+
+[[files]]
+file = "config/xaero/lib/client.cfg"
+hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
+
+[[files]]
+file = "config/xaero/lib/common.cfg"
+hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
+
+[[files]]
+file = "config/xaero/lib/profiles/default.cfg"
+hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+
+[[files]]
+file = "config/xaero/lib/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/minimap/client.cfg"
+hash = "a8b717a5bfbb9e52b89b1402609f2e0f6f1c886bf24aefbf74a9abcdd641c2fb"
+
+[[files]]
+file = "config/xaero/minimap/common.cfg"
+hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_client.json"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_server.json"
+hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
+
+[[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+hash = "532b087fb902469b21ed110c9b6d6d51951368aa4f391c30987ba0a002ddb2bb"
+
+[[files]]
+file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
+
+[[files]]
+file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
+
+[[files]]
+file = "config/xaero/minimap/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
+hash = "33bcf15d5706daf090323b03c16e357c44bdb8e5f29a2f65ef839316b6e94c5f"
+
+[[files]]
+file = "config/xaero/world-map/common.cfg"
+hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
+
+[[files]]
+file = "config/xaero/world-map/profiles/default.cfg"
+hash = "3aee432e89a6f996f394f64a7ca2ac9b463cd399fb88c15b763cb16c98e85505"
+
+[[files]]
+file = "config/xaero/world-map/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaerohud.txt"
+hash = "cece60604b8de5e978141c981c1ed85227c8f30697a513869012b06dd15fcf02"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/yacl.json5"
+hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
+
+[[files]]
+file = "meteor-client/config.nbt"
+hash = "3288524adca995f5922bb793f9ca1e90bbfa8cef9aa9e8cf8cf4940fc2b9279a"
+
+[[files]]
+file = "meteor-client/gui/gui.nbt"
+hash = "f72b6fe0bc60382985f028143ead2f4cfd3d6a46a27c6e9a3de8b96b7b979455"
+
+[[files]]
+file = "meteor-client/gui/themes/Meteor.nbt"
+hash = "46a73f6eb0e0c9df7f22fb62d83a28a3459e9e4875664f94d48742a208899e53"
+
+[[files]]
+file = "meteor-client/hud.nbt"
+hash = "bc3c13f1598e5b6a9b589c02a5e6dc84736281e98491415b33757a50e2647e7c"
+
+[[files]]
+file = "meteor-client/macros.nbt"
+hash = "2b48c27bc44c5b43f8a71723b520c498a097b89df13fc724a63df03c3418211e"
+
+[[files]]
+file = "meteor-client/modules.nbt"
+hash = "ef5ea70d8ef3454d920d425327289da678590f7fcb2bb149a251749b15a6d5e3"
+
+[[files]]
+file = "meteor-client/profiles/profiles.nbt"
+hash = "1e435003d8a56df8229061e3949acbc97dd79f54995716eae9df43c810c801fb"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "06fdee11931358d5729c72bfa33e45405f2b88cbdf00a8c5fb5253f5599ea1e8"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "b72d00d529ec694ae354b73f6b36d4ec2b830c60c05cc31f46d00ac7ddf8a26b"
+metafile = true
+
+[[files]]
+file = "mods/client-recipe-fix.pw.toml"
+hash = "9eb7346702ea4597123f606438545e9c3a786b69f66f50a7867ecab287d92d09"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "0d83a657f371b76bd18a09db1840885f5c765c3b861b12a0af62df3c6cc5bbf4"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "d8e2eb843f684b6abe48010c4ebf3e1300bd0fe9a4132e2744757d850171f4b7"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "481192fb349be87304022d2801bdf77be7082217fcdedf15a8f5da0a4e1a5ba5"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "fb983e5ea25f59adc0cfb77929585c165fbcf07578d7727448b329824f166fde"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "578361d3e09011c45d1d8a8444c96e76506ed67d472ce8947ddff742396455c0"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "e9345014ab938c929447b4f426a184e479f071da7b3a73882624e8beaf092f01"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "5a16e8b17e0a78a409fc9e9c6eccc07b5569641ae201ffdc9600cb898e32b1e9"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "69ccef6ee5daf3f0d301ae1b7282b4cb732839d66582b81f1bbee9649023761a"
+metafile = true
+
+[[files]]
+file = "mods/gworld-meridian-1.0.0.jar"
+hash = "ddf90dfb87cbf480eaf5873dfc7b28833711a171a4cf5ec4935ef6096491e4bf"
+
+[[files]]
+file = "mods/held-item-info.pw.toml"
+hash = "15bce919514325447e487d260ec4458165fb4537ccadb9a0e740df4bcf3cb0ef"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "9cb9fbb7431ed58a8bb7bf25d1b9fcc8706fc57400db7acffef06e25971552fa"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "839d5e3cb0d5088cea47c6ee18b1ea4e4055f38ccbb0194544ff73ab9c5d9cd3"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "f90f3f5382905d941da0fd440b72177058b1394bf97ee2cc7851c1d3ce2daa8b"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "a96558d4114019b01947a9ee8f128331a17c9ce94f9b25a2a5c39d3985e67043"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "200890e05315c9668c8f54ea14dcdee4af48cff502824428900280b9baec5330"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "32ccffb6a4a0b469ffcdc09727118aec54b10f732f8b1d647fc65b96183a972c"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "3f95565b06efcc49e90f200240666d15d9a56a2e99ba834c40e04ed665d68d05"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "3f98b8818a028223e2f1fe07b0f4e1afa873aafa28770f6c7a275c57d2f50f15"
+metafile = true
+
+[[files]]
+file = "mods/meridian-tweaks-1.0.0.jar"
+hash = "6cc051a042ea79de0d914495f17f1af949ff706cb4ad97cf3deca4dd0f84e8b6"
+
+[[files]]
+file = "mods/meteor-client-1.21.11-86.jar"
+hash = "93390cfdb1030e47f116357ba421c90a9b1ca4832b6551c2dec1ade5eeb42e71"
+
+[[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "33ccaf387bbd09c371fb033c4ab60155216a27d111b306e6e7afdaa37a533eea"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "85b7612aaf49e6c2eac33697e6d909f2e94adadc50d0bc706d9a552a0ac95d51"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "e4b9192ce7f54715dde7eb682ebab23aaaac10658b1bd08ba553a5f99b0124d1"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "44f00c1a0e3d4f8717e805c30c862a597e7856472e72637800fd1a38d73fbd08"
+metafile = true
+
+[[files]]
+file = "mods/openintel-3.3.0+mc1.21.11.jar"
+hash = "534a213a96e0f346a38b93c3f8571dac64892e34343742652c87b6c0d0babe72"
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "51c5dc79381f5e788aa78211c82a8294ec8b1313a5f8cc584fba1e62664dea81"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "03bb608f6258ed84c472de82bc53c6e1ca61d2950a2fdb82b7120df1b3c1b083"
+metafile = true
+
+[[files]]
+file = "mods/retino.pw.toml"
+hash = "2bbff814755083034e050d168e6124040a6382f3ce29cca71272312fa7946617"
+metafile = true
+
+[[files]]
+file = "mods/scrolltweaks.pw.toml"
+hash = "7e0a4139b61034a915a106263fd47562e78c33f6b6e21f81cd2a906a053c89c3"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "a17a9c598d984e4ff28d0945dd0e8bf94b3125b1d669226b4ad736543dacef3f"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "986e43ff06d2a79effec6e219aca063d7b53a98096c5f63983f23cf54c11c7e5"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "6c8575610994168a7c23eef1022c5bc11e69f16ca297a9e0f67d830258fba21b"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "8aec714507a8cc1982238fc110a0c938110fd07a514c39722d083e73b7764272"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "95e503a07238e3b14f1ecb3b9fe1d3de93510269eb353bb287703528ef28a881"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "b3ba9bfc16dea752b65cdb8fcf9d2cc8132927e9218fedee202dcda86dcaf00e"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "4c1f9c2dd215d39639501bcf7e87927ea2307dc161a4f59000ab445ccc311f8d"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "5d3a3e7186164d842f96b48bbeb297e11810ffbfcf1f91ef58cf2a55f469bc1c"
+preserve = true
+
+[[files]]
+file = "resourcepacks/civplus.zip"
+hash = "be96e3a5f35e8a30271f7e84ca2fac84f599ae0dc14c3e7c01e59f539637b764"
+
+[[files]]
+file = "resourcepacks/civplus.zip.sha1"
+hash = "c8dac6cc478cb763e7016be575d48a8c9cd028073e8e24faf69a5c35341dc21f"

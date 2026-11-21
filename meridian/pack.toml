@@ -1,0 +1,13 @@
+name = "Meridian"
+author = "Meridian"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7025e79fe1d97b022fb72293493a487b4b74f1b022de059da996ae6457c4ee4d"
+
+[versions]
+fabric = "0.19.2"
+minecraft = "1.21.11"

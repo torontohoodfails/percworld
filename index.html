@@ -1,1 +1,34 @@
-<!doctype html><meta charset=utf-8><meta name=viewport content='width=device-width,initial-scale=1'><title>percworld</title><style>html,body{height:100%;margin:0}body{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3.2rem;text-align:center;font-family:ui-monospace,Menlo,monospace;background:radial-gradient(ellipse at 50% 38%,#4a1212 0%,#1c0505 48%,#000 100%),repeating-linear-gradient(0deg,#0000 0 31px,#ffffff08 31px 32px),repeating-linear-gradient(90deg,#0000 0 31px,#ffffff08 31px 32px);background-blend-mode:normal;color:#d8d2c8}h1{margin:0;font-size:clamp(2.4rem,11vw,7.5rem);letter-spacing:.14em;color:#8a8a8a;text-shadow:1px 1px 0 #6b6b6b,2px 2px 0 #5a5a5a,3px 3px 0 #4a4a4a,4px 4px 0 #3a3a3a,5px 5px 0 #2a2a2a,6px 6px 0 #1a1a1a,10px 14px 28px #000}a{color:#ece6da;text-decoration:none;border:2px solid #6a6a6a;border-bottom-color:#2a2a2a;border-right-color:#2a2a2a;background:#4a4a4a;padding:.9rem 2.2rem;font-size:1.15rem;letter-spacing:.12em;text-transform:uppercase}a:hover{background:#5e5e5e;color:#fff}</style><h1>PERCWORLD</h1><a href='percworld.zip'>Download the pack</a>
+<!doctype html><meta charset=utf-8><meta name=viewport content='width=device-width,initial-scale=1'>
+<title>Meridian</title><meta name=robots content=noindex>
+<style>
+:root{--bg:#0d0d0c;--ink:#cfc9bd;--dim:#77726a;--line:#3a3833;--field:#151513}
+html,body{height:100%;margin:0}
+body{background:radial-gradient(ellipse at 50% 35%,#24231f 0%,#121210 55%,#080807 100%);color:var(--ink);
+font-family:Georgia,'Times New Roman',serif;display:flex;align-items:center;justify-content:center;padding:0 16px}
+main{display:flex;flex-direction:column;align-items:center;gap:2.6rem;width:100%;max-width:420px}
+h1{margin:0;font-weight:400;font-size:clamp(2.2rem,10vw,4.4rem);letter-spacing:.32em;margin-right:-.32em;color:#d9d3c6}
+hr{width:100%;border:0;border-top:1px solid var(--line);margin:0}
+form{display:flex;flex-direction:column;gap:1rem;width:100%}
+input,button{font:inherit;font-size:1rem;letter-spacing:.18em;text-transform:uppercase;padding:.85rem 1rem;border-radius:0}
+input{background:var(--field);color:var(--ink);border:1px solid var(--line);text-align:center;text-transform:none;letter-spacing:.08em}
+input:focus{outline:none;border-color:var(--dim)}
+button{background:none;color:var(--ink);border:1px solid var(--dim);cursor:pointer}
+button:hover{background:#1c1b18}
+p{margin:0;min-height:1.3em;color:var(--dim);font-size:.9rem;letter-spacing:.08em;text-align:center}
+</style>
+<main><h1>MERIDIAN</h1><hr>
+<form id=f><input id=pw type=password placeholder=password autocomplete=current-password autofocus>
+<button>Download</button></form><p id=msg></p></main>
+<script>
+const ITER=300000;
+f.onsubmit=async e=>{e.preventDefault();msg.textContent='';
+ try{const raw=new Uint8Array(await (await fetch('meridian.locked')).arrayBuffer());
+  const salt=raw.slice(8,16),body=raw.slice(16);
+  const base=await crypto.subtle.importKey('raw',new TextEncoder().encode(pw.value),'PBKDF2',false,['deriveBits']);
+  const bits=new Uint8Array(await crypto.subtle.deriveBits({name:'PBKDF2',salt,iterations:ITER,hash:'SHA-256'},base,384));
+  const key=await crypto.subtle.importKey('raw',bits.slice(0,32),'AES-CBC',false,['decrypt']);
+  const zip=await crypto.subtle.decrypt({name:'AES-CBC',iv:bits.slice(32,48)},key,body);
+  const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([zip],{type:'application/zip'}));
+  a.download='meridian.zip';a.click();msg.textContent='Import it in Prism Launcher. It keeps itself up to date.';
+ }catch(_){msg.textContent='Wrong password.'}};
+</script>

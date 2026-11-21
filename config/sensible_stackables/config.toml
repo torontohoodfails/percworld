@@ -1,9 +1,0 @@
-# Don't change this! Version used to track needed updates.
-version = 2
-# percworld: every item that stacks at all stacks to 256. That is set by the Vortex mod in each item's own definition
-# (so the game and the server always agree and big stacks move as smoothly as normal ones), not by this list; this mod
-# is kept for lifting the game's own 99 ceiling on saved and sent stacks. Stacks saved bigger than 256 are kept whole.
-items = []
-splashPotionCooldown = 0
-uncapStackSize = true
-commonStackSize = 64
