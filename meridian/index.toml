@@ -86,247 +86,7 @@ hash = "6a9db8750993886331bfd70f28693bc18373f6c130b5063534252fb07e5ff3cb"
 
 [[files]]
 file = "config/litematica.json"
-hash = "4f422a4884c041de46afade3d58bd1e398260c992d0e61ab3d4c4a2833d0f7e0"
-
-[[files]]
-file = "config/litematica/litematica_Chest+Treasure Room.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_Chest+Treasure Room_dim_minecraft_overworld.json"
-hash = "ec00bb0f8bacb5e2865a367fc601752467a34d07dcb8f0ff4cc13a496b03f01b"
-
-[[files]]
-file = "config/litematica/litematica_Colosseum.json"
-hash = "284010e7eb70a5e384af14eef2a657d3e4b95dd651bb2b397db5776b07fe159c"
-
-[[files]]
-file = "config/litematica/litematica_Colosseum_dim_minecraft_overworld.json"
-hash = "7055297e449e2ce5733ed922101e060b4d82922079cbc3d564b0fb55474a1706"
-
-[[files]]
-file = "config/litematica/litematica_GS.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_GS_dim_minecraft_overworld.json"
-hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
-
-[[files]]
-file = "config/litematica/litematica_GS_dim_minecraft_the_nether.json"
-hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
-
-[[files]]
-file = "config/litematica/litematica_Parkour Test.json"
-hash = "c5084e511824ed9f2f38764243b970bd4c7d1047c5fa450b4f4e1c6a2cf9622e"
-
-[[files]]
-file = "config/litematica/litematica_Parkour Test_dim_minecraft_overworld.json"
-hash = "6ec469f2fcb6a8c57a1db9f8ccfe65309d4a6bbdec6631448f9bd2e1b598f27a"
-
-[[files]]
-file = "config/litematica/litematica_THSchutt Colosseum(11)+.json"
-hash = "5e15487fa768aca8f49b1d74cca5a6e4b8c631c03c5d01b985cbc563e1ebdec7"
-
-[[files]]
-file = "config/litematica/litematica_THSchutt Colosseum(11)+_dim_minecraft_overworld.json"
-hash = "ab4bd66eb9fd9ce7df40213117a1ebec9d9ea4f7946a4aac1bf4622e6c196ad8"
-
-[[files]]
-file = "config/litematica/litematica_Trydar's Village Colosseum Tutor.json"
-hash = "bc4385394aef16f20d2970ad4e319e648201680c2aa46f9bff3e24c2b53d8d04"
-
-[[files]]
-file = "config/litematica/litematica_Trydar's Village Colosseum Tutor_dim_minecraft_overworld.json"
-hash = "d8a0190b589ec7d524e0fec3bc4bd399d1067afa863554b3248c19b271b248e0"
-
-[[files]]
-file = "config/litematica/litematica_blockmania.com.json"
-hash = "284010e7eb70a5e384af14eef2a657d3e4b95dd651bb2b397db5776b07fe159c"
-
-[[files]]
-file = "config/litematica/litematica_blockmania.com_dim_minecraft_hub_spawn_preview.json"
-hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
-
-[[files]]
-file = "config/litematica/litematica_blockmania.com_dim_minecraft_overworld.json"
-hash = "4946400284909a0630960237cc7f1e86ec59000946932267038babf7ec293112"
-
-[[files]]
-file = "config/litematica/litematica_groyper.world.json"
-hash = "284010e7eb70a5e384af14eef2a657d3e4b95dd651bb2b397db5776b07fe159c"
-
-[[files]]
-file = "config/litematica/litematica_groyper.world_dim_minecraft_overworld.json"
-hash = "671e65ca8ef95302659f820be0e011ffeda7b8d5ab79fcb28855f4d2148099aa"
-
-[[files]]
-file = "config/litematica/litematica_groyper.world_dim_minecraft_superiorworld.json"
-hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
-
-[[files]]
-file = "config/litematica/litematica_groyper.world_dim_minecraft_the_end.json"
-hash = "cc362c6c8e0c529f60bf4f9932b28852f2f92791367be0444a66e33cfd976b79"
-
-[[files]]
-file = "config/litematica/litematica_groyper.world_dim_minecraft_the_nether.json"
-hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
-
-[[files]]
-file = "config/litematica/litematica_groyper.world_dim_minecraft_world.json"
-hash = "da08d0fb8b3f77a983a57a8b4ea1de1512b1655e6990abc270b9fa892b79de11"
-
-[[files]]
-file = "config/litematica/litematica_groypersmp.aternos.me.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_groypersmp.aternos.me_dim_aternos_lobby.json"
-hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
-
-[[files]]
-file = "config/litematica/litematica_mcpvp.club.json"
-hash = "284010e7eb70a5e384af14eef2a657d3e4b95dd651bb2b397db5776b07fe159c"
-
-[[files]]
-file = "config/litematica/litematica_mcpvp.club_dim_minecraft_overworld.json"
-hash = "84d2deb3b712fc809a06d8645a43796d99abd0bfdff333cb784578c4f9f688ac"
-
-[[files]]
-file = "config/litematica/litematica_play.civ.plus.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_play.civ.plus_dim_minecraft_overworld.json"
-hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
-
-[[files]]
-file = "config/litematica/litematica_play.civ.plus_dim_minecraft_the_nether.json"
-hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
-
-[[files]]
-file = "config/litematica/litematica_play.cubecraft.net.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_play.cubecraft.net_dim_minecraft_overworld.json"
-hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest101.json"
-hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest102.json"
-hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest103.json"
-hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest104.json"
-hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest105.json"
-hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest106.json"
-hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest107.json"
-hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest108.json"
-hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest109.json"
-hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest110.json"
-hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest111.json"
-hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest112.json"
-hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest113.json"
-hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest114.json"
-hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest115.json"
-hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest116.json"
-hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest117.json"
-hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest118.json"
-hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest119.json"
-hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest120.json"
-hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest121.json"
-hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest122.json"
-hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest123.json"
-hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest124.json"
-hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest125.json"
-hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest126.json"
-hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_gladiatorslatest127.json"
-hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
-
-[[files]]
-file = "config/litematica/litematica_play.pvplegacy.net_dim_minecraft_overworld.json"
-hash = "f680022595142dd6919c9dab6beb1a5cfc47bf356d42be54ba3e49abe01265f5"
+hash = "d14fcc35ae814abf1c7514d885a28f69557396286fa5e47fc11983e64e74aaeb"
 
 [[files]]
 file = "config/lithium.properties"
@@ -350,7 +110,8 @@ hash = "b5877e8a4609451bdd8950f0d1d301e87e1fa982c20aa1439f0ff40d3a335f73"
 
 [[files]]
 file = "config/openintel.json"
-hash = "1a3196a35a16c3728fa45a901fec352e1b4118f05418e63f269f930e97beb301"
+hash = "be97d37b2c0437bd6dde519dbd51296c50188a9d96df59f077214cd9dcf7e06c"
+preserve = true
 
 [[files]]
 file = "config/particle_core_config.toml"
@@ -463,30 +224,37 @@ hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 [[files]]
 file = "meteor-client/config.nbt"
 hash = "3288524adca995f5922bb793f9ca1e90bbfa8cef9aa9e8cf8cf4940fc2b9279a"
+preserve = true
 
 [[files]]
 file = "meteor-client/gui/gui.nbt"
 hash = "f72b6fe0bc60382985f028143ead2f4cfd3d6a46a27c6e9a3de8b96b7b979455"
+preserve = true
 
 [[files]]
 file = "meteor-client/gui/themes/Meteor.nbt"
 hash = "46a73f6eb0e0c9df7f22fb62d83a28a3459e9e4875664f94d48742a208899e53"
+preserve = true
 
 [[files]]
 file = "meteor-client/hud.nbt"
 hash = "bc3c13f1598e5b6a9b589c02a5e6dc84736281e98491415b33757a50e2647e7c"
+preserve = true
 
 [[files]]
 file = "meteor-client/macros.nbt"
 hash = "2b48c27bc44c5b43f8a71723b520c498a097b89df13fc724a63df03c3418211e"
+preserve = true
 
 [[files]]
 file = "meteor-client/modules.nbt"
-hash = "ef5ea70d8ef3454d920d425327289da678590f7fcb2bb149a251749b15a6d5e3"
+hash = "ecb43b8435a924646137cb2d896423b8dbf7e1859895d8347e061e667b2137e2"
+preserve = true
 
 [[files]]
 file = "meteor-client/profiles/profiles.nbt"
 hash = "1e435003d8a56df8229061e3949acbc97dd79f54995716eae9df43c810c801fb"
+preserve = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"

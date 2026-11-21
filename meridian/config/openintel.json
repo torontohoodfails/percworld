@@ -77,13 +77,13 @@
   "snitchPattern": "(?i)entered snitch|snitch at|you have entered|opened container|logged in at|logged out at|damaged sanctuary|broke block|placed block",
   "chatChannel": "chat",
   "chatViewChat": true,
-  "chatViewSnitches": false,
-  "chatViewMining": false,
-  "chatViewClient": false,
+  "chatViewSnitches": true,
+  "chatViewMining": true,
+  "chatViewClient": true,
   "chatShowChat": true,
-  "chatShowSnitches": false,
-  "chatShowMining": false,
-  "chatShowClient": false,
+  "chatShowSnitches": true,
+  "chatShowMining": true,
+  "chatShowClient": true,
   "chatViewEvents": true,
   "chatShowEvents": true,
   "snitchMarkerSeconds": 120,
@@ -119,7 +119,7 @@
   "warTableLabelWorldMap": true,
   "warTableSanctuaryWorldMap": true,
   "warTablePinOpacity": 150,
-  "radarEnabled": true,
+  "radarEnabled": false,
   "radarX": 8,
   "radarY": 8,
   "radarSize": 48,
@@ -157,8 +157,57 @@
     "tuff",
     "netherrack"
   ],
-  "hudReferenceWidth": 0,
-  "hudReferenceHeight": 0,
-  "hudAnchors": {},
+  "hudReferenceWidth": 570,
+  "hudReferenceHeight": 320,
+  "hudAnchors": {
+    "ARMOR": {
+      "sourceX": 8,
+      "sourceY": 116,
+      "anchor": {
+        "x": 0.014035087719298246,
+        "y": 0.3625,
+        "alignX": 0.0,
+        "alignY": 0.0,
+        "insetX": 0.0,
+        "insetY": 0.0
+      }
+    },
+    "POTIONS": {
+      "sourceX": -1,
+      "sourceY": 40,
+      "anchor": {
+        "x": 1.0,
+        "y": 0.125,
+        "alignX": 1.0,
+        "alignY": 0.0,
+        "insetX": -1.0,
+        "insetY": 0.0
+      }
+    },
+    "EVENTS": {
+      "sourceX": -1,
+      "sourceY": 4,
+      "anchor": {
+        "x": 1.0,
+        "y": 0.0125,
+        "alignX": 1.0,
+        "alignY": 0.0,
+        "insetX": -1.0,
+        "insetY": 0.0
+      }
+    },
+    "RELAY": {
+      "sourceX": -1,
+      "sourceY": 120,
+      "anchor": {
+        "x": 1.0,
+        "y": 0.375,
+        "alignX": 1.0,
+        "alignY": 0.0,
+        "insetX": -1.0,
+        "insetY": 0.0
+      }
+    }
+  },
   "externalHudElements": {}
 }
