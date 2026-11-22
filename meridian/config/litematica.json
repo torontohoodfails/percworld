@@ -103,7 +103,7 @@
     "toolItemComponents": "empty",
     "translationLanguage": "en_us",
     "translationMode": "vanilla",
-    "printingMode": true,
+    "printingMode": false,
     "printingDebug": false,
     "printingInterval": 12,
     "printingRange": 5.0,

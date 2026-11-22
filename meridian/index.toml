@@ -86,7 +86,7 @@ hash = "6a9db8750993886331bfd70f28693bc18373f6c130b5063534252fb07e5ff3cb"
 
 [[files]]
 file = "config/litematica.json"
-hash = "d14fcc35ae814abf1c7514d885a28f69557396286fa5e47fc11983e64e74aaeb"
+hash = "cc8283428498a02c23ed812cdcd4a2656e5bfeb01642ef7c75ba4f09b55b7429"
 
 [[files]]
 file = "config/lithium.properties"
@@ -222,6 +222,11 @@ file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
+file = "essential/config.toml"
+hash = "1ac4ea68ee6848e1ef835be9755b38fb92d8db0d3a96e8e958c3b94887754731"
+preserve = true
+
+[[files]]
 file = "meteor-client/config.nbt"
 hash = "3288524adca995f5922bb793f9ca1e90bbfa8cef9aa9e8cf8cf4940fc2b9279a"
 preserve = true
@@ -292,6 +297,11 @@ hash = "fb983e5ea25f59adc0cfb77929585c165fbcf07578d7727448b329824f166fde"
 metafile = true
 
 [[files]]
+file = "mods/essential.pw.toml"
+hash = "5dc3e3d9d460977e5f53aa0564805441676cca5a0381272ee26c01cfd71256be"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "578361d3e09011c45d1d8a8444c96e76506ed67d472ce8947ddff742396455c0"
 metafile = true
@@ -346,6 +356,11 @@ hash = "200890e05315c9668c8f54ea14dcdee4af48cff502824428900280b9baec5330"
 metafile = true
 
 [[files]]
+file = "mods/litematica-printer.pw.toml"
+hash = "768c36c17e7d8215085eecc29152bc04eb23ed18df6350210ee234215cbac1ae"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "32ccffb6a4a0b469ffcdc09727118aec54b10f732f8b1d647fc65b96183a972c"
 metafile = true
@@ -362,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/meridian-tweaks-1.0.0.jar"
-hash = "6cc051a042ea79de0d914495f17f1af949ff706cb4ad97cf3deca4dd0f84e8b6"
+hash = "63e14f9f03b924904172b6ee07a7f71ee888aa379cdf154105a91fd8b1dfd19a"
 
 [[files]]
 file = "mods/meteor-client-1.21.11-86.jar"
@@ -379,6 +394,11 @@ hash = "85b7612aaf49e6c2eac33697e6d909f2e94adadc50d0bc706d9a552a0ac95d51"
 metafile = true
 
 [[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "096bce1d87ff7f759d07ae6501043c5d2db1bcdffb5ea566425843f12ff8e348"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "e4b9192ce7f54715dde7eb682ebab23aaaac10658b1bd08ba553a5f99b0124d1"
 metafile = true
@@ -390,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/openintel-3.3.0+mc1.21.11.jar"
-hash = "534a213a96e0f346a38b93c3f8571dac64892e34343742652c87b6c0d0babe72"
+hash = "82885d6fd89e647741b5c99aafd634852ffd8d03ef2d4d317808170944a7762e"
 
 [[files]]
 file = "mods/particle-core.pw.toml"
