@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/meridian-tweaks-1.0.0.jar"
-hash = "63e14f9f03b924904172b6ee07a7f71ee888aa379cdf154105a91fd8b1dfd19a"
+hash = "c1a43ca7bf9d46bfa3176a5ae7954add51665b42fa743ece16b2736a1dd65d4b"
 
 [[files]]
 file = "mods/meteor-client-1.21.11-86.jar"
@@ -394,11 +394,6 @@ hash = "85b7612aaf49e6c2eac33697e6d909f2e94adadc50d0bc706d9a552a0ac95d51"
 metafile = true
 
 [[files]]
-file = "mods/morechathistory.pw.toml"
-hash = "096bce1d87ff7f759d07ae6501043c5d2db1bcdffb5ea566425843f12ff8e348"
-metafile = true
-
-[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "e4b9192ce7f54715dde7eb682ebab23aaaac10658b1bd08ba553a5f99b0124d1"
 metafile = true
@@ -410,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/openintel-3.3.0+mc1.21.11.jar"
-hash = "82885d6fd89e647741b5c99aafd634852ffd8d03ef2d4d317808170944a7762e"
+hash = "a47a52b6af6258ee714afd1faafb6cd9f2937099c85a08aa301a57ee7b4a1f97"
 
 [[files]]
 file = "mods/particle-core.pw.toml"
