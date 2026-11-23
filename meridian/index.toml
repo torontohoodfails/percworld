@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/meridian-tweaks-1.0.0.jar"
-hash = "75f0934b9be9f06108e365f072a33e81129aafea6291351a8f3f9b219b4f0f33"
+hash = "71b528baadacd131f94abcc299646a29887fd8a4718a8a3c9de4e2bb8f32a8d6"
 
 [[files]]
 file = "mods/meteor-client-1.21.11-86.jar"
