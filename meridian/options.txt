@@ -237,7 +237,7 @@ key_key.openintel.hold_attack:key.keyboard.minus
 key_key.openintel.hold_use:key.keyboard.equal
 key_key.openintel.attack_macro:key.keyboard.0
 key_key.openintel.use_macro:key.keyboard.right.bracket
-key_key.openintel.ice_road:key.keyboard.backspace
+key_key.openintel.ice_road:key.keyboard.unknown
 key_key.openintel.ping:key.keyboard.g
 key_key.openintel.wartable:key.keyboard.o
 key_key.openintel.investigate_prev:key.keyboard.left

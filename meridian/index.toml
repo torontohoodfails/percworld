@@ -323,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/gworld-meridian-1.0.0.jar"
-hash = "ddf90dfb87cbf480eaf5873dfc7b28833711a171a4cf5ec4935ef6096491e4bf"
+hash = "e98b5b1d15625b5301196f46c4ec95f461f9a36e20ef191d79eac356196e9ebc"
 
 [[files]]
 file = "mods/held-item-info.pw.toml"
@@ -405,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/openintel-3.3.0+mc1.21.11.jar"
-hash = "a47a52b6af6258ee714afd1faafb6cd9f2937099c85a08aa301a57ee7b4a1f97"
+hash = "fa6dda7f80e02f0bf0dfa61b775eb0e1c36d84c10635977880ced07dff761546"
 
 [[files]]
 file = "mods/particle-core.pw.toml"
@@ -464,7 +464,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "5d3a3e7186164d842f96b48bbeb297e11810ffbfcf1f91ef58cf2a55f469bc1c"
+hash = "0be7b02ed6b11d7ff405f15ea2222a431eed827d7f4000aa6647ebba8c3431d2"
 preserve = true
 
 [[files]]
