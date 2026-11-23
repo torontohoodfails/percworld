@@ -110,7 +110,7 @@ hash = "b5877e8a4609451bdd8950f0d1d301e87e1fa982c20aa1439f0ff40d3a335f73"
 
 [[files]]
 file = "config/openintel.json"
-hash = "be97d37b2c0437bd6dde519dbd51296c50188a9d96df59f077214cd9dcf7e06c"
+hash = "10e0b8203668e41f70343660c9c2846bdba85faa19f20257a7fcc0c78573d727"
 preserve = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/meridian-tweaks-1.0.0.jar"
-hash = "c1a43ca7bf9d46bfa3176a5ae7954add51665b42fa743ece16b2736a1dd65d4b"
+hash = "75f0934b9be9f06108e365f072a33e81129aafea6291351a8f3f9b219b4f0f33"
 
 [[files]]
 file = "mods/meteor-client-1.21.11-86.jar"
@@ -404,8 +404,8 @@ hash = "44f00c1a0e3d4f8717e805c30c862a597e7856472e72637800fd1a38d73fbd08"
 metafile = true
 
 [[files]]
-file = "mods/openintel-3.3.0+mc1.21.11.jar"
-hash = "fa6dda7f80e02f0bf0dfa61b775eb0e1c36d84c10635977880ced07dff761546"
+file = "mods/openintel-tweaked-3.3.0-tweaked.9-meridian.1+mc1.21.11.jar"
+hash = "e3d759a220e8b8a50df4f939167a073fa7db5f9858459ab67673c0c47b96c760"
 
 [[files]]
 file = "mods/particle-core.pw.toml"
