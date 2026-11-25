@@ -1,16 +1,7 @@
 {
   "relayUrl": "",
   "minecraftServer": "play.civ.plus",
-  "relays": [
-    {
-      "id": "6196eb72-1a09-453c-9fc8-8089cb587ba7",
-      "name": "Meridian",
-      "url": "",
-      "minecraftServer": "play.civ.plus",
-      "enabled": true,
-      "share": true
-    }
-  ],
+  "relays": [],
   "reportIntervalMs": 50,
   "staleAfterMs": 10000,
   "maxMarkerDistance": 0.0,
@@ -25,7 +16,7 @@
   "edgeRightYPct": 50,
   "edgeColumnInset": 5,
   "localEnemyAlert": true,
-  "relayEnabled": true,
+  "relayEnabled": false,
   "snitchAlertsEnabled": true,
   "investigateEnabled": true,
   "relicMapsEnabled": true,

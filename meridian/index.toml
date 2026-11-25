@@ -110,7 +110,7 @@ hash = "b5877e8a4609451bdd8950f0d1d301e87e1fa982c20aa1439f0ff40d3a335f73"
 
 [[files]]
 file = "config/openintel.json"
-hash = "10e0b8203668e41f70343660c9c2846bdba85faa19f20257a7fcc0c78573d727"
+hash = "e470f1112e8f2cbdedb91bb40f68ff4a3d9b96b23d5d89c87f3ab5e692a9d2ea"
 preserve = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/meridian-tweaks-1.0.0.jar"
-hash = "71b528baadacd131f94abcc299646a29887fd8a4718a8a3c9de4e2bb8f32a8d6"
+hash = "93e45e6f3aaaefcc7a1540408cf7c9aef1c2b56ee8aaa30a2c0ea1deb36f7b28"
 
 [[files]]
 file = "mods/meteor-client-1.21.11-86.jar"
