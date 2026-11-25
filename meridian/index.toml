@@ -262,6 +262,11 @@ hash = "1e435003d8a56df8229061e3949acbc97dd79f54995716eae9df43c810c801fb"
 preserve = true
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "93f2371b90e3c65592bc34fd61b919b78a8c838f97ee7c4c83df4e7d7618801e"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "06fdee11931358d5729c72bfa33e45405f2b88cbdf00a8c5fb5253f5599ea1e8"
 metafile = true
